@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+  
+  <!-- Servlets -->
+  <servlet>
+    <servlet-name>persistenceServlet</servlet-name>
+    <servlet-class>booksandfilms.server.PersistentServiceImpl</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>queryServlet</servlet-name>
+    <servlet-class>booksandfilms.server.QueryServiceImpl</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>loginService</servlet-name>
+    <servlet-class>booksandfilms.server.LoginServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>persistenceServlet</servlet-name>
+    <url-pattern>/booksandfilms/persistentservice</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>queryServlet</servlet-name>
+    <url-pattern>/booksandfilms/queryservice</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>loginService</servlet-name>
+    <url-pattern>/booksandfilms/loginService</url-pattern>
+  </servlet-mapping>
+  
+  <!-- ===================== Login Google Servlet ===================== -->
+
+  <servlet>
+    <servlet-name>logingoogle</servlet-name>
+    <servlet-class>booksandfilms.server.servlets.LoginGoogleServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>logingoogle</servlet-name>
+    <url-pattern>/logingoogle</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>logingooglecallback</servlet-name>
+    <servlet-class>booksandfilms.server.servlets.LoginGoogleCallbackServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>logingooglecallback</servlet-name>
+    <url-pattern>/logingooglecallback</url-pattern>
+  </servlet-mapping>
+  
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>BooksAndFilms.html</welcome-file>
+  </welcome-file-list>
+
+</web-app>

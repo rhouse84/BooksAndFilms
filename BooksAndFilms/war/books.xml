@@ -1,0 +1,2238 @@
+<?xml version="1.0"?>
+<books>
+<book>
+<id>1</id><title>Underworld</title><author_id>80</author_id><genre>Fic</genre><rating>1</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>2</id><title>Catch-22</title><author_id>159</author_id><genre>Fic</genre><rating>4</rating><notes>Yossarian</notes><create_date>2000-01-01</create_date><read_date>2009-08-24</read_date>
+</book>
+<book>
+<id>3</id><title>Interview with the Vampire</title><author_id>284</author_id><genre>Fic</genre><rating>1</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>4</id><title>The Smithsonian Institution</title><author_id>352</author_id><genre>Fic</genre><rating>1</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>5</id><title>D-Day, June 6, 1944</title><author_id>5</author_id><genre>Non</genre><rating>2</rating><notes>WWII</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>6</id><title>An Underachiever's Diary</title><author_id>8</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>7</id><title>The Works:  Anatomy of a City</title><author_id>11</author_id><genre>Non</genre><rating>2</rating><notes>the stuff on water supply was good</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>8</id><title>Emma</title><author_id>12</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>9</id><title>Like a Hole in the Head</title><author_id>16</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>10</id><title>The Lighthouse Stevensons</title><author_id>22</author_id><genre>Non</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>11</id><title>Henderson the Rain King</title><author_id>27</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>12</id><title>Best Friends</title><author_id>29</author_id><genre>Fic</genre><rating>2</rating><notes>Roy &amp; Sam</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>13</id><title>Gossip</title><author_id>37</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>14</id><title>Cellmates</title><author_id>45</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>15</id><title>A Month in the Country</title><author_id>52</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>16</id><title>The Little Sister</title><author_id>56</author_id><genre>Fic</genre><rating>2</rating><notes>Orfamay Quest</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>17</id><title>Colors of the Mountain</title><author_id>57</author_id><genre>Mem</genre><rating>2</rating><notes>Cultural Revolution</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>18</id><title>What Mrs. McGillicuddy Saw</title><author_id>58</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>19</id><title>Clear and Present Danger</title><author_id>60</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>20</id><title>Executive Orders</title><author_id>60</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>21</id><title>Without Remorse</title><author_id>60</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>22</id><title>The Winter King</title><author_id>68</author_id><genre>Fic</genre><rating>2</rating><notes>King Arthur</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>23</id><title>Congo</title><author_id>71</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>24</id><title>Prey</title><author_id>71</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>25</id><title>The Andromeda Strain</title><author_id>71</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>26</id><title>The Sphere</title><author_id>71</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>27</id><title>A Slight Trick of the Mind</title><author_id>73</author_id><genre>Fic</genre><rating>2</rating><notes>a very old Sherlock Holmes</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>28</id><title>Circuit of Heaven</title><author_id>75</author_id><genre>SciFi</genre><rating>2</rating><notes>The Bin</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>29</id><title>Robinson Crusoe</title><author_id>79</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>30</id><title>A Tale of Two Cities</title><author_id>84</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>31</id><title>Summer of Deliverance</title><author_id>86</author_id><genre>Non</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>32</id><title>The Sign of Four</title><author_id>92</author_id><genre>Fic</genre><rating>2</rating><notes>Sherlock Holmes</notes><create_date>2000-01-01</create_date><read_date>2010-10-16</read_date>
+</book>
+<book>
+<id>33</id><title>Stardog</title><author_id>94</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>34</id><title>Talking to the Dead</title><author_id>95</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>35</id><title>Shadow Wars</title><author_id>100</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>36</id><title>The Legacy</title><author_id>101</author_id><genre>Fic</genre><rating>2</rating><notes>Lavette Family # 4</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>37</id><title>The Hammer of Eden</title><author_id>114</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>38</id><title>A Room With a View</title><author_id>117</author_id><genre>Fic</genre><rating>2</rating><notes>Lucy Honeychurch &amp; George Emerson</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>39</id><title>The Fourth Protocol</title><author_id>118</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>40</id><title>Preston Falls</title><author_id>125</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>41</id><title>The Normals</title><author_id>128</author_id><genre>Fic</genre><rating>2</rating><notes>Billy Schine; drug trials</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>42</id><title>The Chamber</title><author_id>138</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>43</id><title>Marley &amp; Me</title><author_id>139</author_id><genre>Non</genre><rating>2</rating><notes>Life and Love with the World's Worst Dog</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>44</id><title>An Irish Eye</title><author_id>156</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>45</id><title>When Last Seen Alive</title><author_id>157</author_id><genre>Mys</genre><rating>2</rating><notes>Aaron Gunner</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>46</id><title>A Long Way Down</title><author_id>166</author_id><genre>Fic</genre><rating>2</rating><notes>Maureen, Martin, Jess &amp; JJ</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>47</id><title>Dragon Teeth</title><author_id>170</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>48</id><title>The Hotel New Hampshire</title><author_id>174</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>49</id><title>Five Boys</title><author_id>175</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>50</id><title>The Pollen Room</title><author_id>178</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>51</id><title>California's Over</title><author_id>180</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>52</id><title>The Prodigal Spy</title><author_id>184</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>53</id><title>The Best American Short Stories 1998</title><author_id>186</author_id><genre>Fic</genre><rating>2</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>54</id><title>Misery</title><author_id>194</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>55</id><title>The Stand</title><author_id>194</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>56</id><title>Lady Chatterly's Lover</title><author_id>208</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>57</id><title>The Spy Who Came in from the Cold</title><author_id>209</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>58</id><title>Purple Dots</title><author_id>212</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>59</id><title>Maximum Bob</title><author_id>213</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>60</id><title>Rat Pack Confidential</title><author_id>216</author_id><genre>Bio</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>61</id><title>The New New Thing</title><author_id>217</author_id><genre>Non</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>62</id><title>The Best of Good</title><author_id>218</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>63</id><title>Why Do Men Have Nipples?</title><author_id>219</author_id><genre>Non</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>64</id><title>The Guns of Navarone</title><author_id>228</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>65</id><title>Paris 1919:  Six Months that Changed the World</title><author_id>229</author_id><genre>Hist</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>66</id><title>Pure Drivel</title><author_id>234</author_id><genre>Non</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>67</id><title>The Razor's Edge</title><author_id>236</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>68</id><title>Lucky Bastard</title><author_id>237</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>69</id><title>'Tis</title><author_id>239</author_id><genre>Mem</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>70</id><title>Birds of America</title><author_id>252</author_id><genre>Fic</genre><rating>2</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>71</id><title>All Saints</title><author_id>264</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>72</id><title>The Life and Times of Horatio Hornblower</title><author_id>267</author_id><genre>Fic</genre><rating>2</rating><notes>fictional biography</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>73</id><title>When the Wind Blows </title><author_id>269</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>74</id><title>Little Children</title><author_id>272</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>75</id><title>The Raven</title><author_id>274</author_id><genre>Poetry</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>76</id><title>Babyhood</title><author_id>281</author_id><genre>Non</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>77</id><title>Seymour:  An Introduction</title><author_id>298</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>78</id><title>The Unexpected Salami</title><author_id>310</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>79</id><title>Cold</title><author_id>320</author_id><genre>Fic</genre><rating>2</rating><notes>U.P.</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>80</id><title>Blind Man's Bluff</title><author_id>322</author_id><genre>Non</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>81</id><title>Comeback</title><author_id>325</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>82</id><title>Dr. Jekyl and Mr. Hyde</title><author_id>328</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>83</id><title>AOL.COM</title><author_id>337</author_id><genre>Non</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>84</id><title>Never Coming to a Theater Near You</title><author_id>349</author_id><genre>Non</genre><rating>2</rating><notes>a celebration of a certain kind of movie</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>85</id><title>Bech:  A Book</title><author_id>351</author_id><genre>Fic</genre><rating>2</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>86</id><title>S.</title><author_id>351</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>87</id><title>The Poorhouse Fair</title><author_id>351</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>88</id><title>The Same Door</title><author_id>351</author_id><genre>Fic</genre><rating>2</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>89</id><title>Cat's Cradle</title><author_id>353</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>90</id><title>Pearl Harbor</title><author_id>356</author_id><genre>Fic</genre><rating>2</rating><notes>novelization</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>91</id><title>The Graduate</title><author_id>360</author_id><genre>Fic</genre><rating>2</rating><notes>Benjamin, Elaine &amp; Mrs. Robinson</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>92</id><title>John Henry Days</title><author_id>362</author_id><genre>Fic</genre><rating>2</rating><notes>J. Sutter</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>93</id><title>Catch Me If You Can</title><author_id>1</author_id><genre>Bio</genre><rating>3</rating><notes>paperhanging</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>94</id><title>The Long Dark Tea-Time of the Soul</title><author_id>2</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>95</id><title>Tuesdays with Morrie</title><author_id>3</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>96</id><title>Icewater Mansions</title><author_id>4</author_id><genre>Mys</genre><rating>3</rating><notes>Mitch Mitchell</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>97</id><title>Citizen Soldiers</title><author_id>5</author_id><genre>Non</genre><rating>3</rating><notes>WWII</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>98</id><title>The Lake, The River &amp; The Other Lake</title><author_id>6</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>99</id><title>Night Train</title><author_id>7</author_id><genre>Fic</genre><rating>3</rating><notes>suicide</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>100</id><title>Midnight Champagne</title><author_id>10</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>101</id><title>The Brooklyn Follies</title><author_id>13</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>102</id><title>Inheritance</title><author_id>14</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>103</id><title>Absolute Power</title><author_id>15</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>104</id><title>Red Mercury</title><author_id>18</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>105</id><title>Big Trouble</title><author_id>20</author_id><genre>Fic</genre><rating>3</rating><notes>funny</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>106</id><title>Tricky Business</title><author_id>20</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>107</id><title>Bear v. Shark</title><author_id>21</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>108</id><title>The Houdini Girl</title><author_id>26</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>109</id><title>Open House</title><author_id>28</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>110</id><title>A Prayer for the City</title><author_id>30</author_id><genre>Non</genre><rating>3</rating><notes>Philidelphia</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>111</id><title>Electric Universe: The Shocking True Story of Electricity</title><author_id>32</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>112</id><title>Bridge Over The River Kwai</title><author_id>33</author_id><genre>Fic</genre><rating>3</rating><notes>they didn't blow the bridge!</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>113</id><title>Gone Bamboo</title><author_id>34</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>114</id><title>Something Wicked This Way Comes</title><author_id>36</author_id><genre>Fic</genre><rating>3</rating><notes>Will &amp; Jim</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>115</id><title>The Cat's Pajamas</title><author_id>36</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>116</id><title>The Greatest Generation</title><author_id>38</author_id><genre>Non</genre><rating>3</rating><notes>WWII</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>117</id><title>The Greatest Generation Speaks</title><author_id>38</author_id><genre>Non</genre><rating>3</rating><notes>WWII</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>118</id><title>Star Wars I - The Phantom Menace</title><author_id>41</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>119</id><title>Double Espresso</title><author_id>42</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>120</id><title>Little Green Men</title><author_id>43</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>121</id><title>The Tin Collectors</title><author_id>48</author_id><genre>Fic</genre><rating>3</rating><notes>Shane Scully, LAPD</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>122</id><title>Breakfast at Tiffany's</title><author_id>49</author_id><genre>Fic</genre><rating>3</rating><notes>Holly Golightly</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>123</id><title>In Cold Blood</title><author_id>49</author_id><genre>Non</genre><rating>3</rating><notes>Perry, Dick &amp; the Clutters</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>124</id><title>Music For Chameleons</title><author_id>49</author_id><genre>Non</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>125</id><title>The Grass Harp</title><author_id>49</author_id><genre>Fic</genre><rating>3</rating><notes>novella &amp; stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>126</id><title>Ender's Game</title><author_id>50</author_id><genre>SciFi</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>127</id><title>Homebody</title><author_id>50</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>128</id><title>Where I'm Calling From</title><author_id>53</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>129</id><title>The Final Solution:  A Story of Detection</title><author_id>54</author_id><genre>Fic</genre><rating>3</rating><notes>a very old Sherlock Holmes</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>130</id><title>It's Only A Movie</title><author_id>55</author_id><genre>Bio</genre><rating>3</rating><notes>Alfred Hitchcock</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>131</id><title>The High Window</title><author_id>56</author_id><genre>Fic</genre><rating>3</rating><notes>The Brasher Doubloon</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>132</id><title>Murder on the Orient Express</title><author_id>58</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>133</id><title>Teeth of the Dog</title><author_id>59</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>134</id><title>Debt of Honor</title><author_id>60</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>135</id><title>Op Center</title><author_id>60</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>136</id><title>Op Center - Acts of War</title><author_id>60</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>137</id><title>Op Center - Games of State</title><author_id>60</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>138</id><title>Op Center - Mirror Image</title><author_id>60</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>139</id><title>Patriot Games</title><author_id>60</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>140</id><title>Red Storm Rising</title><author_id>60</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>141</id><title>The Hunt for Red October</title><author_id>60</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>142</id><title>The Sum of All Fears</title><author_id>60</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>143</id><title>Tell No One</title><author_id>61</author_id><genre>Fic</genre><rating>3</rating><notes>Beck</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>144</id><title>Blood Work</title><author_id>63</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>145</id><title>The Concrete Blond</title><author_id>63</author_id><genre>Fic</genre><rating>3</rating><notes>Harry Bosch</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>146</id><title>The Best American Mystery Stories of 2003</title><author_id>64</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>147</id><title>Chromosome 6</title><author_id>65</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>148</id><title>Memories of the Great and the Good</title><author_id>66</author_id><genre>Bio</genre><rating>3</rating><notes>Marshall, FDR, Duke Ellington, et al.</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>149</id><title>Flight of the Intruder</title><author_id>67</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>150</id><title>The Body Farm</title><author_id>69</author_id><genre>Fic</genre><rating>3</rating><notes>Kay Scarpetta</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>151</id><title>The Red Badge of Courage</title><author_id>70</author_id><genre>Fic</genre><rating>3</rating><notes>Civil War; audio</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>152</id><title>Disclosure</title><author_id>71</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>153</id><title>Eaters of the Dead</title><author_id>71</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>154</id><title>The Lost World</title><author_id>71</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>155</id><title>The Terminal Man</title><author_id>71</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>156</id><title>Timeline</title><author_id>71</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>157</id><title>Don't Know Much About History</title><author_id>76</author_id><genre>Hist</genre><rating>3</rating><notes>primer on American history</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>158</id><title>The Coffin Dancer</title><author_id>78</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>159</id><title>Plum Island</title><author_id>81</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>160</id><title>Because of Winn-Dixie</title><author_id>82</author_id><genre>KidFic</genre><rating>3</rating><notes>Opal</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>161</id><title>The Man in the High Castle</title><author_id>83</author_id><genre>SciFi</genre><rating>3</rating><notes>alternate history</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>162</id><title>Oliver Twist</title><author_id>84</author_id><genre>Fic</genre><rating>3</rating><notes>Oliver, Rose, Fagin &amp; Sikes</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>163</id><title>The Pickwick Papers</title><author_id>84</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>164</id><title>Deliverance</title><author_id>88</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>165</id><title>Eating Naked: stories</title><author_id>89</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>166</id><title>Brain Storm</title><author_id>90</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>167</id><title>The Cost of Living</title><author_id>91</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>168</id><title>Classic Adventures of Sherlock Holmes</title><author_id>92</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>169</id><title>The Commitments</title><author_id>93</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>170</id><title>Lucky Man, Lucky Woman</title><author_id>94</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>171</id><title>The Witchfinder</title><author_id>99</author_id><genre>Mys</genre><rating>3</rating><notes>set in Detroit</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>172</id><title>April Morning</title><author_id>101</author_id><genre>HistFic</genre><rating>3</rating><notes>Revolutionary War</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>173</id><title>Citizen Tom Paine</title><author_id>101</author_id><genre>HistFic</genre><rating>3</rating><notes>Revolutionary War</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>174</id><title>Second Generation</title><author_id>101</author_id><genre>Fic</genre><rating>3</rating><notes>Lavette Family # 2</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>175</id><title>Seven Days in June</title><author_id>101</author_id><genre>HistFic</genre><rating>3</rating><notes>Breed's (Bunker) Hill</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>176</id><title>The Bridge Builder's Story</title><author_id>101</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>177</id><title>The Crossing</title><author_id>101</author_id><genre>HistFic</genre><rating>3</rating><notes>Revolutionary War</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>178</id><title>The Establishment</title><author_id>101</author_id><genre>Fic</genre><rating>3</rating><notes>Lavette Family # 3</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>179</id><title>The Hessian</title><author_id>101</author_id><genre>HistFic</genre><rating>3</rating><notes>Revolutionary War</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>180</id><title>A Season on the Brink</title><author_id>103</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>181</id><title>God Bless the Child</title><author_id>104</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>182</id><title>Then We Came to the End</title><author_id>105</author_id><genre>Fic</genre><rating>3</rating><notes>office politics</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>183</id><title>Lost in a Good Book</title><author_id>106</author_id><genre>Fic</genre><rating>3</rating><notes>Thursday Next</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>184</id><title>The Big Over Easy</title><author_id>106</author_id><genre>Fic</genre><rating>3</rating><notes>Jack Spratt &amp; Humpty Dumpty</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>185</id><title>The Well of Lost Plots</title><author_id>106</author_id><genre>Fic</genre><rating>3</rating><notes>Thursday Next</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>186</id><title>Wild Designs</title><author_id>107</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>187</id><title>Bridget Jones:  The Edge of Reason</title><author_id>108</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>188</id><title>Bridget Jones's Diary</title><author_id>108</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>189</id><title>High Crimes</title><author_id>109</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>190</id><title>Puff</title><author_id>111</author_id><genre>Fic</genre><rating>3</rating><notes>John &amp; Gully Gullivan</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>191</id><title>How Soccer Explains the World</title><author_id>112</author_id><genre>Non</genre><rating>3</rating><notes>globalization</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>192</id><title>Extremely Loud and Incredibly Close</title><author_id>113</author_id><genre>Fic</genre><rating>3</rating><notes>Oskar Schell</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>193</id><title>Night Over Water</title><author_id>114</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>194</id><title>The Key to Rebecca</title><author_id>114</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>195</id><title>Admiral Hornblower in the West Indies</title><author_id>116</author_id><genre>Fic</genre><rating>3</rating><notes># 11</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>196</id><title>Commodore Hornblower</title><author_id>116</author_id><genre>Fic</genre><rating>3</rating><notes># 9 - Nonsuch</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>197</id><title>Hornblower and the Atropos</title><author_id>116</author_id><genre>Fic</genre><rating>3</rating><notes># 5 - Atropos</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>198</id><title>Hornblower During the Crisis</title><author_id>116</author_id><genre>Fic</genre><rating>3</rating><notes># 4</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>199</id><title>The African Queen</title><author_id>116</author_id><genre>Fic</genre><rating>3</rating><notes>Charlie Allnutt &amp; Rose Sayer</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>200</id><title>The Last Nine Days of the Bismark</title><author_id>116</author_id><genre>HistFic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>201</id><title>The Day of the Jackal</title><author_id>118</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>202</id><title>The Odessa File</title><author_id>118</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>203</id><title>The Columnist</title><author_id>119</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>204</id><title>How To Be Alone</title><author_id>120</author_id><genre>Non</genre><rating>3</rating><notes>essays</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>205</id><title>Spies</title><author_id>121</author_id><genre>Fic</genre><rating>3</rating><notes>Stephen &amp; Keith</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>206</id><title>Cold Mountain</title><author_id>122</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>207</id><title>Roadkill</title><author_id>123</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>208</id><title>The Mile High Club</title><author_id>123</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>209</id><title>The Wonders of the Invisible World</title><author_id>125</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>210</id><title>The Long Home</title><author_id>126</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>211</id><title>The Unexpected Mrs.Pollifax</title><author_id>130</author_id><genre>Fic</genre><rating>3</rating><notes>Farrell &amp; Genie</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>212</id><title>Caught in the Light</title><author_id>131</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>213</id><title>Memoirs of a Geisha </title><author_id>133</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>214</id><title>Personal History</title><author_id>135</author_id><genre>Bio</genre><rating>3</rating><notes>Washington Post</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>215</id><title>Duty</title><author_id>136</author_id><genre>Non</genre><rating>3</rating><notes>WWII, Hiroshima, Enola Gay</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>216</id><title>The Captain and the Enemy</title><author_id>137</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>217</id><title>The End of the Affair</title><author_id>137</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>218</id><title>The Power and the Glory</title><author_id>137</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>219</id><title>The Quiet American</title><author_id>137</author_id><genre>Fic</genre><rating>3</rating><notes>Fowler, Pyle &amp; Phuong</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>220</id><title>The Tenth Man</title><author_id>137</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>221</id><title>A Time to Kill</title><author_id>138</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>222</id><title>The Client</title><author_id>138</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>223</id><title>The Firm</title><author_id>138</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>224</id><title>The Pelican Brief</title><author_id>138</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>225</id><title>The Rainmaker</title><author_id>138</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>226</id><title>The Motorcycle Diaries</title><author_id>141</author_id><genre>Non</genre><rating>3</rating><notes>Che &amp; Alberto</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>227</id><title>Matters of Chance</title><author_id>144</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>228</id><title>The First Immortal</title><author_id>145</author_id><genre>Fic</genre><rating>3</rating><notes>cryonics</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>229</id><title>A Cold Day in Paradise</title><author_id>146</author_id><genre>Mys</genre><rating>3</rating><notes>Alex McKnight </notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>230</id><title>The Big Knockover</title><author_id>147</author_id><genre>Fic</genre><rating>3</rating><notes>Continental op stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>231</id><title>The Continental Op</title><author_id>147</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>232</id><title>Supreme Justice</title><author_id>148</author_id><genre>Fic</genre><rating>3</rating><notes>set in Detroit</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>233</id><title>Chocolat</title><author_id>150</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>234</id><title>Enigma</title><author_id>151</author_id><genre>Fic</genre><rating>3</rating><notes>WWII code breaking</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>235</id><title>The Silence of the Lambs</title><author_id>152</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>236</id><title>An Unfortunate Praire Occurance</title><author_id>153</author_id><genre>Mys</genre><rating>3</rating><notes>Blue Deere, Montana</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>237</id><title>You Are Not a Stranger Here</title><author_id>155</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>238</id><title>Skull Session</title><author_id>158</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>239</id><title>Everything You Know</title><author_id>160</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>240</id><title>A Farewell to Arms</title><author_id>161</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>241</id><title>For Whom The Bell Tolls</title><author_id>161</author_id><genre>Fic</genre><rating>3</rating><notes>Robert Jordan</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>242</id><title>In Our Time</title><author_id>161</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>243</id><title>The Snows of Kilimanjaro</title><author_id>161</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>244</id><title>The Sun Also Rises</title><author_id>161</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>245</id><title>To Have and Have Not</title><author_id>161</author_id><genre>Fic</genre><rating>3</rating><notes>Harry Morgan</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>246</id><title>Heart-Shaped Box</title><author_id>162</author_id><genre>Fic</genre><rating>3</rating><notes>Jude &amp; Georgia</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>247</id><title>Hunting Badger</title><author_id>164</author_id><genre>Fic</genre><rating>3</rating><notes>Joe Leaphorn &amp; Jim Chee</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>248</id><title>People of Darkness </title><author_id>164</author_id><genre>Fic</genre><rating>3</rating><notes>Jim Chee</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>249</id><title>The Fallen Man</title><author_id>164</author_id><genre>Fic</genre><rating>3</rating><notes>Joe Leaphorn &amp; Jim Chee</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>250</id><title>The First Eagle</title><author_id>164</author_id><genre>Fic</genre><rating>3</rating><notes>Joe Leaphorn &amp; Jim Chee</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>251</id><title>Lost Horizon</title><author_id>165</author_id><genre>Fic</genre><rating>3</rating><notes>Shangri-La</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>252</id><title>Housekeeping vs. the Dirt</title><author_id>166</author_id><genre>Non</genre><rating>3</rating><notes>books purchased and read</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>253</id><title>Songbook</title><author_id>166</author_id><genre>Non</genre><rating>3</rating><notes>pop music</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>254</id><title>The Polysyllabic Spree</title><author_id>166</author_id><genre>Non</genre><rating>3</rating><notes>books purchased and read</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>255</id><title>My Favourite Year</title><author_id>167</author_id><genre>Non</genre><rating>3</rating><notes>football writing</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>256</id><title>Speaking with the Angel</title><author_id>167</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>257</id><title>The Big Kiss</title><author_id>169</author_id><genre>Mys</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>258</id><title>Body Count</title><author_id>170</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>259</id><title>Time to Hunt</title><author_id>171</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>260</id><title>A Firing Offense</title><author_id>172</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>261</id><title>The Sun King</title><author_id>172</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>262</id><title>My Movie Business:  a memior</title><author_id>174</author_id><genre>Mem</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>263</id><title>Monstrum</title><author_id>176</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>264</id><title>No Such Thing as a Bad Day</title><author_id>181</author_id><genre>Mem</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>265</id><title>Selected Short Stories</title><author_id>183</author_id><genre>Fic</genre><rating>3</rating><notes>Modern Library edition</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>266</id><title>Los Alamos</title><author_id>184</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>267</id><title>Bad Love</title><author_id>187</author_id><genre>Fic</genre><rating>3</rating><notes>Alex Delaware</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>268</id><title>Survival of the Fittest</title><author_id>187</author_id><genre>Fic</genre><rating>3</rating><notes>Alex Delaware</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>269</id><title>The Web</title><author_id>187</author_id><genre>Fic</genre><rating>3</rating><notes>Alex Delaware</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>270</id><title>The Exes</title><author_id>189</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>271</id><title>Esau</title><author_id>190</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>272</id><title>The Grid</title><author_id>190</author_id><genre>Mys</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>273</id><title>Ship of Gold in the Deep Blue Sea</title><author_id>193</author_id><genre>Non</genre><rating>3</rating><notes>treasure hunt</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>274</id><title>Hearts in Atlantis</title><author_id>194</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>275</id><title>It</title><author_id>194</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>276</id><title>Riding the Bullet</title><author_id>194</author_id><genre>Fic</genre><rating>3</rating><notes>eBook</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>277</id><title>'Salem's Lot</title><author_id>194</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>278</id><title>The Green Mile</title><author_id>194</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>279</id><title>Captains Courageous</title><author_id>196</author_id><genre>Fic</genre><rating>3</rating><notes>Harvey &amp; Dan on the We're Here; audio</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>280</id><title>Sex, drugs and Cocoa Puffs</title><author_id>197</author_id><genre>Non</genre><rating>3</rating><notes>pop culture essays</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>281</id><title>Born on the Fourth of July</title><author_id>200</author_id><genre>Non</genre><rating>3</rating><notes>Vietnam</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>282</id><title>Bad Chemistry</title><author_id>202</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>283</id><title>Chaos Theory</title><author_id>202</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>284</id><title>Identity</title><author_id>203</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>285</id><title>From The Listening Hills</title><author_id>205</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>286</id><title>The Gun Seller</title><author_id>207</author_id><genre>Fic</genre><rating>3</rating><notes>funny</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>287</id><title>Sons and Lovers</title><author_id>208</author_id><genre>Fic</genre><rating>3</rating><notes>Paul Morel</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>288</id><title>Be Cool</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Chili Palmer</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>289</id><title>City Primeval:  High Noon in Detroit</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>290</id><title>Cuba Libre</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Ben Tyler</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>291</id><title>Escape from Five Shadows</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Western Roundup # 2</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>292</id><title>Fifty-Two Pickup</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>293</id><title>Forty Lashes Less One</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Western Roundup # 1</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>294</id><title>Freaky Deaky</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>295</id><title>Get Shorty</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Chili Palmer</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>296</id><title>Glitz</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>297</id><title>Gunsights</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Western Roundup # 1</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>298</id><title>Hombre</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Western Roundup # 3</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>299</id><title>Killshot</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>300</id><title>Last Stand at Saber River</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Western Roundup # 2</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>301</id><title>Mr. Paradise</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Frank Delsa &amp; Kelly</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>302</id><title>Out of Sight</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>303</id><title>Pagan Babies</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Fr. Terry Dunn</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>304</id><title>Pronto</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Raylan Givens &amp; Harry Arno</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>305</id><title>Rum Punch</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Jackie Brown</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>306</id><title>The Hot Kid</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Carl Webster &amp; Jack Belmont</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>307</id><title>The Law at Randado</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Western Roundup # 2</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>308</id><title>The Tonto Woman</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>309</id><title>Tishomingo Blues</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Dennis Lenahan &amp; Robert Taylor</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>310</id><title>Up in Honey's Room</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Carl Webster</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>311</id><title>Valdez is Coming</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Western Roundup # 3</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>312</id><title>When the Women Come Out to Dance</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>313</id><title>Men and Cartoons</title><author_id>214</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>314</id><title>You Don't Love Me Yet</title><author_id>214</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>315</id><title>Chain of Custody</title><author_id>215</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>316</id><title>Just Enough Liebling</title><author_id>220</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>317</id><title>Paradise News</title><author_id>221</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>318</id><title>Call of the Wild</title><author_id>222</author_id><genre>Fic</genre><rating>3</rating><notes>Buck</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>319</id><title>The Apocalypse Watch</title><author_id>223</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>320</id><title>The Aquitaine Progression</title><author_id>223</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>321</id><title>The Bourne Identity</title><author_id>223</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>322</id><title>The Bourne Supremacy</title><author_id>223</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>323</id><title>The Bourne Ultimatum</title><author_id>223</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>324</id><title>The Gemini Contenders</title><author_id>223</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>325</id><title>The Icarus Agenda</title><author_id>223</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>326</id><title>The Matarese Circle</title><author_id>223</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>327</id><title>The Parsifal Mosaic</title><author_id>223</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>328</id><title>The Scorpio Illusion</title><author_id>223</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>329</id><title>Dog Days</title><author_id>226</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>330</id><title>Sleeping Beauty</title><author_id>227</author_id><genre>Fic</genre><rating>3</rating><notes>Lew Archer</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>331</id><title>The Moving Target</title><author_id>227</author_id><genre>Fic</genre><rating>3</rating><notes>Lew Archer</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>332</id><title>Wicked</title><author_id>230</author_id><genre>Fic</genre><rating>3</rating><notes>Elphaba</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>333</id><title>The Daddy Clock</title><author_id>232</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>334</id><title>The Pleasure of My Company</title><author_id>234</author_id><genre>Fic</genre><rating>3</rating><notes>Daniel &amp; Zandy</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>335</id><title>The Path Between the Seas</title><author_id>240</author_id><genre>Non</genre><rating>3</rating><notes>Panama Canal</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>336</id><title>Mexican Hat</title><author_id>241</author_id><genre>Fic</genre><rating>3</rating><notes>Kevin Kerney</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>337</id><title>The Making of C. S. Forester's Horatio Hornblower</title><author_id>242</author_id><genre>Non</genre><rating>3</rating><notes>A&amp;E mini-series</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>338</id><title>The Treatment</title><author_id>244</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>339</id><title>Double Take</title><author_id>245</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>340</id><title>Bogart:  A Life in Hollywood</title><author_id>246</author_id><genre>Bio</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>341</id><title>San Francisco Thrillers</title><author_id>247</author_id><genre>Fic</genre><rating>3</rating><notes>Hammett, Thompson, et al.</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>342</id><title>Sherlock Holmes and the Secret Alliance</title><author_id>248</author_id><genre>Fic</genre><rating>3</rating><notes>Shadwell Rafferty</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>343</id><title>The Statement</title><author_id>250</author_id><genre>Fic</genre><rating>3</rating><notes>Brossard</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>344</id><title>What Harry Saw</title><author_id>253</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>345</id><title>Felix in the Underworld</title><author_id>254</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>346</id><title>Bad Boy Brawley Brown</title><author_id>255</author_id><genre>Fic</genre><rating>3</rating><notes>Easy Rawlins; audio</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>347</id><title>Cinnamon Kiss</title><author_id>255</author_id><genre>Fic</genre><rating>3</rating><notes>Easy Rawlins</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>348</id><title>Little Scarlet</title><author_id>255</author_id><genre>Fic</genre><rating>3</rating><notes>Easy Rawlins; 1967 L.A. riots</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>349</id><title>The Sterile Cuckoo</title><author_id>257</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>350</id><title>Popular Music From Vittula</title><author_id>258</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>351</id><title>The Moon's a Balloon</title><author_id>259</author_id><genre>Bio</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>352</id><title>Death in Paradise</title><author_id>266</author_id><genre>Fic</genre><rating>3</rating><notes>Jesse Stone</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>353</id><title>Family Honor</title><author_id>266</author_id><genre>Mys</genre><rating>3</rating><notes>Sonny Randall</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>354</id><title>Night Passage</title><author_id>266</author_id><genre>Fic</genre><rating>3</rating><notes>Jesse Stone</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>355</id><title>Perchance to Dream</title><author_id>266</author_id><genre>Fic</genre><rating>3</rating><notes>sequel to The Big Sleep</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>356</id><title>Potshot</title><author_id>266</author_id><genre>Fic</genre><rating>3</rating><notes>Spenser</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>357</id><title>Small Vices</title><author_id>266</author_id><genre>Mys</genre><rating>3</rating><notes>Spenser</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>358</id><title>Sudden Mischief</title><author_id>266</author_id><genre>Mys</genre><rating>3</rating><notes>Spenser</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>359</id><title>Thin Air</title><author_id>266</author_id><genre>Mys</genre><rating>3</rating><notes>Spenser</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>360</id><title>Trouble in Paradise</title><author_id>266</author_id><genre>Fic</genre><rating>3</rating><notes>Jesse Stone</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>361</id><title>Run</title><author_id>268</author_id><genre>Fic</genre><rating>3</rating><notes>the Doyles</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>362</id><title>Along Came a Spider</title><author_id>269</author_id><genre>Fic</genre><rating>3</rating><notes>Alex Cross</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>363</id><title>Morning Glory Mother</title><author_id>270</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>364</id><title>Bad Haircut:  Stories of the 70's</title><author_id>272</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>365</id><title>Election</title><author_id>272</author_id><genre>Fic</genre><rating>3</rating><notes>Tracy Flick</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>366</id><title>Open Net</title><author_id>273</author_id><genre>Mem</genre><rating>3</rating><notes>the Professional Amatuer</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>367</id><title>Paper Lion</title><author_id>273</author_id><genre>Mem</genre><rating>3</rating><notes>the last-string quarterback</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>368</id><title>True Grit</title><author_id>275</author_id><genre>Fic</genre><rating>3</rating><notes>Mattie Ross &amp; Rooster Cogburn</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>369</id><title>Savages</title><author_id>277</author_id><genre>Fic</genre><rating>3</rating><notes>nameless detective</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>370</id><title>The Shipping News</title><author_id>278</author_id><genre>Fic</genre><rating>3</rating><notes>Quoyle</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>371</id><title>Black &amp; Blue</title><author_id>279</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>372</id><title>All Quiet on the Western Front</title><author_id>282</author_id><genre>Fic</genre><rating>3</rating><notes>German infantry, WW I</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>373</id><title>King of the World</title><author_id>283</author_id><genre>Bio</genre><rating>3</rating><notes>Muhammad Ali</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>374</id><title>Pobby and Dingan</title><author_id>285</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>375</id><title>Bonk:  The Curious Coupling of Science and Sex</title><author_id>286</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>376</id><title>My War</title><author_id>288</author_id><genre>Mem</genre><rating>3</rating><notes>WWII, Stars and Stripes</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>377</id><title>Portrait of Hemingway</title><author_id>291</author_id><genre>Bio</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>378</id><title>The Ghost Writer</title><author_id>292</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>379</id><title>Sleeper Spy</title><author_id>297</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>380</id><title>Raise High the Roof Beam, Carpenters</title><author_id>298</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>381</id><title>In the Family Way</title><author_id>300</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>382</id><title>Dress Your Family in Corduroy and Denim</title><author_id>304</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>383</id><title>Me Talk Pretty One Day</title><author_id>304</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>384</id><title>Our Last Best Shot</title><author_id>305</author_id><genre>Non</genre><rating>3</rating><notes>adolescence, parenting skills</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>385</id><title>The Glorious Cause</title><author_id>306</author_id><genre>HistFic</genre><rating>3</rating><notes>Revolution 1776-1783</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>386</id><title>Hamlet</title><author_id>308</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>387</id><title>Mangrove Squeeze</title><author_id>309</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>388</id><title>JP McCarthy</title><author_id>312</author_id><genre>Bio</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>389</id><title>The Obituary Writer</title><author_id>315</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>390</id><title>The Unlikely Spy</title><author_id>316</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>391</id><title>Love Monkey</title><author_id>317</author_id><genre>Fic</genre><rating>3</rating><notes>Tom Farrell</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>392</id><title>Gorky Park</title><author_id>318</author_id><genre>Mys</genre><rating>3</rating><notes>Arkedy Renko</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>393</id><title>Wolves Eat Dogs</title><author_id>318</author_id><genre>Fic</genre><rating>3</rating><notes>Arkedy Renko; Chernobyl</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>394</id><title>An American Killing</title><author_id>319</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>395</id><title>Baseball's Best Short Stories</title><author_id>323</author_id><genre>Fic</genre><rating>3</rating><notes>stories, Casey at the Bat</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>396</id><title>Black Mountain</title><author_id>324</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>397</id><title>Presidential Deal</title><author_id>324</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>398</id><title>The Beautiful Cigar Girl</title><author_id>326</author_id><genre>Fic</genre><rating>3</rating><notes>Mary Rogers &amp; Edgar Allen Poe</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>399</id><title>The Red Pony</title><author_id>327</author_id><genre>Fic</genre><rating>3</rating><notes>Jody</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>400</id><title>Treasure Island</title><author_id>328</author_id><genre>Fic</genre><rating>3</rating><notes>Jim Hawkins &amp; Long John Silver; Hispaniola</notes><create_date>2000-01-01</create_date><read_date>2011-08-29</read_date>
+</book>
+<book>
+<id>401</id><title>Off Ramp:  Adventures and Heartache...</title><author_id>333</author_id><genre>Non</genre><rating>3</rating><notes>collection of newpaper articles</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>402</id><title>Manhunt: The 12-Day Chase for Lincoln's Killer</title><author_id>334</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>403</id><title>War's End</title><author_id>336</author_id><genre>Bio</genre><rating>3</rating><notes>WWII, Nagasaki, Bock's Car</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>404</id><title>Some Danger Involved</title><author_id>340</author_id><genre>Fic</genre><rating>3</rating><notes>Thomas Llewelyn, Cyrus Barker</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>405</id><title>Writings and Drawings</title><author_id>341</author_id><genre>Non</genre><rating>3</rating><notes>Library of America edition</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>406</id><title>To Conquer the Air</title><author_id>343</author_id><genre>Bio</genre><rating>3</rating><notes>flight; the Wright brothers</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>407</id><title>Man:  The Book</title><author_id>345</author_id><genre>Non</genre><rating>3</rating><notes>funny</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>408</id><title>The Eiger Sanction</title><author_id>346</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>409</id><title>Family Man</title><author_id>347</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>410</id><title>Tepper Isn't Going Out</title><author_id>347</author_id><genre>Fic</genre><rating>3</rating><notes>Murray Tepper</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>411</id><title>Everything Changes</title><author_id>348</author_id><genre>Fic</genre><rating>3</rating><notes>Zack, Tamara &amp; Hope</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>412</id><title>The Adventures of Huckleberry Finn</title><author_id>350</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>413</id><title>A Month of Sundays</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>414</id><title>Bech is Back</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>415</id><title>Brazil</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>416</id><title>Couples</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>417</id><title>Licks of Love:  stories and a novella</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>stories, Rabbit Remembered</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>418</id><title>Marry Me</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>419</id><title>Pigeon Feathers, and Other Stories</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>420</id><title>Rabbit Redux</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>Rabbit in 1970</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>421</id><title>The Afterlife and Other Stories</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>422</id><title>The Centaur</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>George Caldwell</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>423</id><title>Toward the End of Time</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>Ben Turnbull</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>424</id><title>The Watermelon King</title><author_id>354</author_id><genre>Fic</genre><rating>3</rating><notes>Lucy &amp; Thomas Rider</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>425</id><title>Siberian Light</title><author_id>361</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>426</id><title>The Intuitionist</title><author_id>362</author_id><genre>Fic</genre><rating>3</rating><notes>elevator inspectors</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>427</id><title>Enter Jeeves:  15 Early Stories</title><author_id>364</author_id><genre>Fic</genre><rating>3</rating><notes>stories;  Reggie Pepper</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>428</id><title>Leave it to Psmith</title><author_id>364</author_id><genre>Fic</genre><rating>3</rating><notes>Blandings Castle</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>429</id><title>Stiff Upper Lip, Jeeves</title><author_id>364</author_id><genre>Fic</genre><rating>3</rating><notes>Gussie Fink-Nottle &amp; Madeline</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>430</id><title>Uncle Fred in the Sprintime</title><author_id>364</author_id><genre>Fic</genre><rating>4</rating><notes>Blandings Castle</notes><create_date>2000-01-01</create_date><read_date>2010-08-08</read_date>
+</book>
+<book>
+<id>431</id><title>In Pharaoh's Army:  Memories of the Lost War</title><author_id>366</author_id><genre>Mem</genre><rating>3</rating><notes>Vietnam</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>432</id><title>The Barracks Thief</title><author_id>366</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>433</id><title>The Night in Question:  Stories</title><author_id>366</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>434</id><title>This Boy's Life:  A Memior</title><author_id>366</author_id><genre>Mem</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>435</id><title>An Eye of the Fleet</title><author_id>368</author_id><genre>Fic</genre><rating>3</rating><notes>Nathaniel Drinkwater #1</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>436</id><title>The Winds of War</title><author_id>370</author_id><genre>Fic</genre><rating>3</rating><notes>The Henry family;  WWII 1937-1941</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>437</id><title>One of the Guys</title><author_id>371</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>438</id><title>Panama</title><author_id>372</author_id><genre>HistFic</genre><rating>3</rating><notes>Henry Adams</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>439</id><title>Animal Husbandry</title><author_id>373</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>440</id><title>Dating Big Bird</title><author_id>373</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>441</id><title>A Dance in Deep Water</title><author_id>4</author_id><genre>Mys</genre><rating>4</rating><notes>Mitch Mitchell</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>442</id><title>Band of Brothers</title><author_id>5</author_id><genre>Hist</genre><rating>4</rating><notes>Easy Company, 506th Regiment</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>443</id><title>Triage</title><author_id>9</author_id><genre>Fic</genre><rating>4</rating><notes>Mark Walsh</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>444</id><title>Pride and Prejudice</title><author_id>12</author_id><genre>Fic</genre><rating>4</rating><notes>Elizabeth Bennet &amp; Mr. Darcy</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>445</id><title>The Indian in the Cupboard</title><author_id>17</author_id><genre>KidFic</genre><rating>4</rating><notes>Omri &amp; Little Bear</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>446</id><title>The Voyage of the Narwhal </title><author_id>19</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>447</id><title>A Hole in the Earth</title><author_id>23</author_id><genre>Fic</genre><rating>4</rating><notes>Henry Porter</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>448</id><title>The Feast of Love</title><author_id>24</author_id><genre>Fic</genre><rating>4</rating><notes>Bradley, Chloe &amp; Oscar</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>449</id><title>Mr. Timothy</title><author_id>25</author_id><genre>Fic</genre><rating>4</rating><notes>Tim, Philomela &amp; Colin the Melodious</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>450</id><title>Jane Eyre</title><author_id>39</author_id><genre>Fic</genre><rating>4</rating><notes>Jane &amp; Rochester</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>451</id><title>Year of Wonders</title><author_id>40</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>452</id><title>Tarzan of the Apes</title><author_id>44</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>453</id><title>Double Indemnity</title><author_id>46</author_id><genre>Fic</genre><rating>4</rating><notes>Walter Huff &amp; Phyllis Nirdlinger</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>454</id><title>Carry Me Across the Water</title><author_id>47</author_id><genre>Fic</genre><rating>4</rating><notes>August Kleinman</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>455</id><title>Speaker for the Dead</title><author_id>50</author_id><genre>SciFi</genre><rating>4</rating><notes>Ender</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>456</id><title>Treasure Box</title><author_id>50</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>457</id><title>The Amazing Adventures of Kavalier &amp; Clay</title><author_id>54</author_id><genre>Fic</genre><rating>4</rating><notes>The Escapist</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>458</id><title>Farwell, My Lovely</title><author_id>56</author_id><genre>Fic</genre><rating>4</rating><notes>Moose Malloy</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>459</id><title>The Lady in the Lake</title><author_id>56</author_id><genre>Fic</genre><rating>4</rating><notes>Philip Marlowe</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>460</id><title>The Long Goodbye</title><author_id>56</author_id><genre>Fic</genre><rating>4</rating><notes>Terry Lennox</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>461</id><title>Flesh Wounds</title><author_id>62</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>462</id><title>Sport</title><author_id>62</author_id><genre>Fic</genre><rating>4</rating><notes>Harlan &amp; Mr. Walker</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>463</id><title>Jurassic Park</title><author_id>71</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>464</id><title>Bud, not Buddy</title><author_id>74</author_id><genre>KidFic</genre><rating>4</rating><notes>Sleepy LaBone</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>465</id><title>Rebecca</title><author_id>77</author_id><genre>Fic</genre><rating>4</rating><notes>Maxim &amp; the second Mrs. de Winter</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>466</id><title>David Copperfield</title><author_id>84</author_id><genre>Fic</genre><rating>4</rating><notes>Trot, Agnes, Steerforth &amp; Uriah Heep</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>467</id><title>Great Expectations</title><author_id>84</author_id><genre>Fic</genre><rating>4</rating><notes>Pip, Estella, Herbert &amp; Magwitch</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>468</id><title>Milk in My Coffee</title><author_id>87</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>469</id><title>Boy in the Water</title><author_id>89</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>470</id><title>A Study in Scarlet</title><author_id>92</author_id><genre>Fic</genre><rating>3</rating><notes>Sherlock Holmes</notes><create_date>2000-01-01</create_date><read_date>2010-10-12</read_date>
+</book>
+<book>
+<id>471</id><title>Lost World</title><author_id>92</author_id><genre>SciFi</genre><rating>4</rating><notes>Edward Malone, Prof. Challenger</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>472</id><title>The Hound of the Baskervilles</title><author_id>92</author_id><genre>Fic</genre><rating>4</rating><notes>Sherlock Holmes</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>473</id><title>Jim the Boy</title><author_id>96</author_id><genre>Fic</genre><rating>4</rating><notes>set in late 1920s</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>474</id><title>The Blue Star</title><author_id>96</author_id><genre>Fic</genre><rating>4</rating><notes>Jim Glass</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>475</id><title>A Heartbreaking Work of Staggering Genious</title><author_id>97</author_id><genre>Mem</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>476</id><title>Peace Like a River</title><author_id>98</author_id><genre>Fic</genre><rating>4</rating><notes>Reuben, Swede &amp; Davy Land</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>477</id><title>Spartacus</title><author_id>101</author_id><genre>Fic</genre><rating>4</rating><notes>gladiator</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>478</id><title>The Immigrants</title><author_id>101</author_id><genre>Fic</genre><rating>4</rating><notes>Lavette Family # 1</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>479</id><title>Something Rotten</title><author_id>106</author_id><genre>Fic</genre><rating>4</rating><notes>Super Hoop '88, Hamlet</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>480</id><title>The Eyre Affair</title><author_id>106</author_id><genre>Fic</genre><rating>4</rating><notes>Thursday Next &amp; Acheron Hades</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>481</id><title>The Great Gatsby</title><author_id>110</author_id><genre>Fic</genre><rating>4</rating><notes>Nick, Jordan, Jay, Daisy &amp; Tom</notes><create_date>2000-01-01</create_date><read_date>2011-06-21</read_date>
+</book>
+<book>
+<id>482</id><title>Beat to Quarters</title><author_id>116</author_id><genre>Fic</genre><rating>4</rating><notes># 6 - Lydia &amp; Natividad</notes><create_date>2000-01-01</create_date><read_date>2010-12-04</read_date>
+</book>
+<book>
+<id>483</id><title>Flying Colours</title><author_id>116</author_id><genre>Fic</genre><rating>4</rating><notes># 8 - Witch of Endor</notes><create_date>2000-01-01</create_date><read_date>2010-12-24</read_date>
+</book>
+<book>
+<id>484</id><title>Hornblower and the Hotspur</title><author_id>116</author_id><genre>Fic</genre><rating>4</rating><notes># 3 - Hotspur - made post captain</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>485</id><title>Lieutenant Hornblower</title><author_id>116</author_id><genre>Fic</genre><rating>4</rating><notes># 2 - Renown &amp; Retribution</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>486</id><title>Lord Hornblower</title><author_id>116</author_id><genre>Fic</genre><rating>4</rating><notes># 10</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>487</id><title>Mr. Midshipman Hornblower</title><author_id>116</author_id><genre>Fic</genre><rating>4</rating><notes># 1 - Justinian &amp; Indefatigable</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>488</id><title>Ship of the Line</title><author_id>116</author_id><genre>Fic</genre><rating>4</rating><notes># 7 - Sutherland</notes><create_date>2000-01-01</create_date><read_date>2010-12-21</read_date>
+</book>
+<book>
+<id>489</id><title>The Corrections</title><author_id>120</author_id><genre>Fic</genre><rating>4</rating><notes>the Lamberts</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>490</id><title>A Gathering of Old Men</title><author_id>124</author_id><genre>Fic</genre><rating>4</rating><notes>Mathu, Candy, Fix &amp; Mapes</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>491</id><title>A Lesson Before Dying</title><author_id>124</author_id><genre>Fic</genre><rating>4</rating><notes>Grant Wiggins &amp; Jefferson</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>492</id><title>Provinces of Night</title><author_id>126</author_id><genre>Fic</genre><rating>4</rating><notes>E. F. &amp; Fleming Bloodworth</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>493</id><title>My Side of the Mountain</title><author_id>127</author_id><genre>KidFic</genre><rating>4</rating><notes>Sam Gribley</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>494</id><title>Stern Men</title><author_id>129</author_id><genre>Fic</genre><rating>4</rating><notes>lobstermen</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>495</id><title>Carter Beats The Devil</title><author_id>132</author_id><genre>Fic</genre><rating>4</rating><notes>Carter the Great</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>496</id><title>Our Man in Havana</title><author_id>137</author_id><genre>Fic</genre><rating>4</rating><notes>Wormold</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>497</id><title>The Human Factor</title><author_id>137</author_id><genre>Fic</genre><rating>4</rating><notes>Maurice Castle</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>498</id><title>Water for Elephants</title><author_id>140</author_id><genre>Fic</genre><rating>4</rating><notes>Jacob, Marlena &amp; Walter</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>499</id><title>The Curious Incident of the Dog in the Night Time</title><author_id>142</author_id><genre>Fic</genre><rating>4</rating><notes>Christopher Boone</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>500</id><title>The Laments</title><author_id>143</author_id><genre>Fic</genre><rating>4</rating><notes>Howard, Julia, Will, Marcus &amp; Julius</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>501</id><title>The Glass Key</title><author_id>147</author_id><genre>Fic</genre><rating>4</rating><notes>Ned Beaumont &amp; Paul Madvig</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>502</id><title>Plainsong</title><author_id>154</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>503</id><title>The Nick Adams Stories</title><author_id>161</author_id><genre>Fic</genre><rating>4</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>504</id><title>The Old Man and the Sea</title><author_id>161</author_id><genre>Fic</genre><rating>4</rating><notes>Santiago &amp; Manolin</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>505</id><title>Seabiscuit</title><author_id>163</author_id><genre>Non</genre><rating>4</rating><notes>Charles Howard, Tom Smith &amp; Red Pollard</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>506</id><title>About a Boy</title><author_id>166</author_id><genre>Fic</genre><rating>4</rating><notes>Will Freeman &amp; Marcus</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>507</id><title>High Fidelity</title><author_id>166</author_id><genre>Fic</genre><rating>4</rating><notes>Rob Fleming</notes><create_date>2000-01-01</create_date><read_date>2011-06-13</read_date>
+</book>
+<book>
+<id>508</id><title>How to Be Good</title><author_id>166</author_id><genre>Fic</genre><rating>4</rating><notes>Katie, David &amp; GoodNews</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>509</id><title>Astronauts and other stories</title><author_id>173</author_id><genre>Fic</genre><rating>4</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>510</id><title>A Prayer for Owen Meany</title><author_id>174</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>511</id><title>A Widow for One Year</title><author_id>174</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>512</id><title>The Cider House Rules</title><author_id>174</author_id><genre>Fic</genre><rating>4</rating><notes>Wilbur Larch &amp; Homer Wells</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>513</id><title>The World According to Garp</title><author_id>174</author_id><genre>Fic</genre><rating>4</rating><notes>T.S. Garp</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>514</id><title>The Murder Room</title><author_id>177</author_id><genre>Fic</genre><rating>4</rating><notes>Adam Dalgleish</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>515</id><title>Mister Pip</title><author_id>179</author_id><genre>Fic</genre><rating>4</rating><notes>Matilda &amp; Mr. Watts</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>516</id><title>Ordinary Money</title><author_id>180</author_id><genre>Fic</genre><rating>4</rating><notes>Wayne &amp; Laura Paschke</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>517</id><title>Hart's War</title><author_id>185</author_id><genre>Fic</genre><rating>4</rating><notes>Tommy Hart &amp; Lincoln Scott</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>518</id><title>Profiles in Courage</title><author_id>188</author_id><genre>Non</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>519</id><title>One Flew Over the Cuckoo's Nest</title><author_id>191</author_id><genre>Fic</genre><rating>4</rating><notes>McMurphy &amp; Chief Bromden</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>520</id><title>The Secret Life of Bees</title><author_id>192</author_id><genre>Fic</genre><rating>4</rating><notes>Lily, Rosaleen, August &amp; T-Ray</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>521</id><title>Bag of Bones</title><author_id>194</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>522</id><title>A Seperate Peace</title><author_id>199</author_id><genre>Fic</genre><rating>4</rating><notes>Gene &amp; Phinaes</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>523</id><title>Eddie's Bastard</title><author_id>201</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>524</id><title>Interpreter of Maladies</title><author_id>204</author_id><genre>Fic</genre><rating>4</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>525</id><title>The Devil in the White City</title><author_id>206</author_id><genre>Hist</genre><rating>4</rating><notes>Chicago World's Fair of 1893</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>526</id><title>To Kill a Mockingbird</title><author_id>210</author_id><genre>Fic</genre><rating>4</rating><notes>Scout, Jem &amp; Atticus Finch</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>527</id><title>Mystic River</title><author_id>211</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>528</id><title>The Bounty Hunters</title><author_id>213</author_id><genre>Fic</genre><rating>4</rating><notes>Western Roundup # 1</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>529</id><title>Gun, With Occasional Music</title><author_id>214</author_id><genre>SciFi</genre><rating>4</rating><notes>karma, babyheads &amp; inquisitors</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>530</id><title>Motherless Brooklyn</title><author_id>214</author_id><genre>Fic</genre><rating>4</rating><notes>Lionel Essrog; Minna Men</notes><create_date>2000-01-01</create_date><read_date>2009-09-01</read_date>
+</book>
+<book>
+<id>531</id><title>The Fortress of Solitude</title><author_id>214</author_id><genre>Fic</genre><rating>4</rating><notes>Dylan Edbus &amp; Mingus Rude</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>532</id><title>Bump and Run</title><author_id>224</author_id><genre>Fic</genre><rating>4</rating><notes>Jack Molloy</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>533</id><title>The Highest Tide</title><author_id>225</author_id><genre>Fic</genre><rating>4</rating><notes>Miles O'Malley</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>534</id><title>Black Money</title><author_id>227</author_id><genre>Fic</genre><rating>4</rating><notes>Lew Archer</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>535</id><title>The Chill</title><author_id>227</author_id><genre>Fic</genre><rating>4</rating><notes>Lew Archer</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>536</id><title>The Galton Case</title><author_id>227</author_id><genre>Fic</genre><rating>4</rating><notes>Lew Archer</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>537</id><title>The Natural</title><author_id>231</author_id><genre>Fic</genre><rating>4</rating><notes>Roy Hobbs, Wonderboy</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>538</id><title>Life of Pi</title><author_id>233</author_id><genre>Fic</genre><rating>4</rating><notes>Piscine Patel &amp; Richard Parker</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>539</id><title>Shopgirl</title><author_id>234</author_id><genre>Fic</genre><rating>4</rating><notes>Mirabelle &amp; Ray Porter</notes><create_date>2000-01-01</create_date><read_date>2011-12-27</read_date>
+</book>
+<book>
+<id>540</id><title>The Four Feathers</title><author_id>235</author_id><genre>Fic</genre><rating>4</rating><notes>Harry Feversham &amp; Ethne Eustace</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>541</id><title>Of Human Bondage</title><author_id>236</author_id><genre>Fic</genre><rating>4</rating><notes>Philip Carey</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>542</id><title>The Road</title><author_id>238</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>543</id><title>Angela's Ashes</title><author_id>239</author_id><genre>Mem</genre><rating>4</rating><notes>Limerick, Ireland</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>544</id><title>Gone With The Wind</title><author_id>249</author_id><genre>Fic</genre><rating>4</rating><notes>Scarlett &amp; Rhett; Tara</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>545</id><title>Practical Demonkeeping</title><author_id>251</author_id><genre>Fic</genre><rating>4</rating><notes>fun</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>546</id><title>Devil in a Blue Dress</title><author_id>255</author_id><genre>Fic</genre><rating>4</rating><notes>Easy Rawlins</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>547</id><title>Six Easy Pieces</title><author_id>255</author_id><genre>Fic</genre><rating>4</rating><notes>stories; Easy Rawlins</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>548</id><title>The Man in My Basement</title><author_id>255</author_id><genre>Fic</genre><rating>4</rating><notes>Charles Blakey &amp; Anniston Bennet</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>549</id><title>An Evening of Long Goodbyes</title><author_id>256</author_id><genre>Fic</genre><rating>4</rating><notes>Charles, Bel &amp; Frank</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>550</id><title>Mutiny on the Bounty</title><author_id>260</author_id><genre>Fic</genre><rating>4</rating><notes>Roger Byam &amp; Captain Bligh</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>551</id><title>The Things They Carried</title><author_id>261</author_id><genre>Fic</genre><rating>4</rating><notes>stories, Vietnam</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>552</id><title>1984</title><author_id>262</author_id><genre>Fic</genre><rating>4</rating><notes>Winston Smith, Big Brother, doublethink</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>553</id><title>Animal Farm</title><author_id>262</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>554</id><title>Scar Vegas:  And Other Stories</title><author_id>263</author_id><genre>Fic</genre><rating>4</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>555</id><title>Hugger Mugger</title><author_id>266</author_id><genre>Fic</genre><rating>4</rating><notes>Spenser</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>556</id><title>Bel Canto</title><author_id>268</author_id><genre>Fic</genre><rating>4</rating><notes>Gen, Roxane &amp; Carmen</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>557</id><title>Right as Rain</title><author_id>271</author_id><genre>Fic</genre><rating>4</rating><notes>Derek Strange &amp; Terry Quinn</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>558</id><title>Joe College</title><author_id>272</author_id><genre>Fic</genre><rating>4</rating><notes>Roach Coach</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>559</id><title>The Wishbones</title><author_id>272</author_id><genre>Fic</genre><rating>4</rating><notes>Dave Raymond, wedding band</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>560</id><title>Freedomland</title><author_id>276</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>561</id><title>The Ultimate Rush </title><author_id>280</author_id><genre>Fic</genre><rating>4</rating><notes>Chet Griffen</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>562</id><title>The Peculiar Memories of Thomas Penman</title><author_id>287</author_id><genre>Fic</genre><rating>4</rating><notes>adolescence</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>563</id><title>A Cure for Gravity</title><author_id>289</author_id><genre>Fic</genre><rating>4</rating><notes>Umberto Santana &amp; Mercury Gant</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>564</id><title>Harry Potter and the Chamber of Secrets</title><author_id>293</author_id><genre>Fic</genre><rating>4</rating><notes># 2 - Gilderoy Lockhart</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>565</id><title>Harry Potter and the Deathly Hallows</title><author_id>293</author_id><genre>Fic</genre><rating>4</rating><notes># 7 </notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>566</id><title>Harry Potter and the Goblet of Fire</title><author_id>293</author_id><genre>Fic</genre><rating>4</rating><notes># 4 - Mad-Eye Moody</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>567</id><title>Harry Potter and the Half-Blood Prince</title><author_id>293</author_id><genre>Fic</genre><rating>4</rating><notes># 6 - Severus Snape</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>568</id><title>Harry Potter and the Order of the Phoenix</title><author_id>293</author_id><genre>Fic</genre><rating>4</rating><notes># 5 - Delores Umbridge</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>569</id><title>Harry Potter and the Prisoner of Azkaban</title><author_id>293</author_id><genre>Fic</genre><rating>4</rating><notes># 3 - Remus Lupin</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>570</id><title>Harry Potter and the Sorcerer's Stone</title><author_id>293</author_id><genre>Fic</genre><rating>4</rating><notes># 1 - Prof. Quirrell</notes><create_date>2000-01-01</create_date><read_date>2010-11-27</read_date>
+</book>
+<book>
+<id>571</id><title>The Shadow of the Wind</title><author_id>294</author_id><genre>Fic</genre><rating>4</rating><notes>Daniel Sempere &amp; Julian Carax</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>572</id><title>Empire Falls</title><author_id>295</author_id><genre>Fic</genre><rating>4</rating><notes>Miles Roby &amp; Tick</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>573</id><title>Holes</title><author_id>296</author_id><genre>KidFic</genre><rating>4</rating><notes>Stanley Yelnats aka Caveman</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>574</id><title>Franny and Zooey</title><author_id>298</author_id><genre>Fic</genre><rating>4</rating><notes>the Glass family</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>575</id><title>The Catcher in the Rye</title><author_id>298</author_id><genre>Fic</genre><rating>4</rating><notes>Holden Caufield; Pencey Prep</notes><create_date>2000-01-01</create_date><read_date>2010-02-09</read_date>
+</book>
+<book>
+<id>576</id><title>The Alpha Raid</title><author_id>299</author_id><genre>HistFic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>577</id><title>Ivanhoe</title><author_id>301</author_id><genre>Fic</genre><rating>4</rating><notes>Rebecca &amp; Rowena </notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>578</id><title>Boy Still Missing</title><author_id>302</author_id><genre>Fic</genre><rating>4</rating><notes>Dominick</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>579</id><title>The Lovely Bones</title><author_id>303</author_id><genre>Fic</genre><rating>4</rating><notes>Susie Salmon</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>580</id><title>Rise to Rebellion</title><author_id>306</author_id><genre>HistFic</genre><rating>4</rating><notes>Revolution 1770-1776</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>581</id><title>For Love of the Game</title><author_id>307</author_id><genre>Fic</genre><rating>4</rating><notes>Billy Chapel</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>582</id><title>The Killer Angels</title><author_id>307</author_id><genre>HistFic</genre><rating>4</rating><notes>Civil War, Gettysburg</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>583</id><title>The Man Who Ate the 747</title><author_id>313</author_id><genre>Fic</genre><rating>4</rating><notes>J.J. Smith, Willa &amp; Wally</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>584</id><title>Berlin Diary:  The Journal of a Foreign Correspondent, 1934-1941</title><author_id>314</author_id><genre>Non</genre><rating>4</rating><notes>Lead-in to WWII</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>585</id><title>Cannery Row </title><author_id>327</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>586</id><title>Of Mice and Men</title><author_id>327</author_id><genre>Fic</genre><rating>4</rating><notes>George &amp; Lennie</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>587</id><title>The Grapes of Wrath</title><author_id>327</author_id><genre>Fic</genre><rating>4</rating><notes>The Joads</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>588</id><title>The Pearl</title><author_id>327</author_id><genre>Fic</genre><rating>4</rating><notes>Kino</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>589</id><title>Earth Abides</title><author_id>329</author_id><genre>Fic</genre><rating>4</rating><notes>Ish &amp; Em</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>590</id><title>Dracula</title><author_id>330</author_id><genre>Fic</genre><rating>4</rating><notes>Jonathan, Mina, Lucy &amp; Dr. Van Helsing</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>591</id><title>Amy and Isabelle</title><author_id>332</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>592</id><title>Q &amp; A</title><author_id>335</author_id><genre>Fic</genre><rating>4</rating><notes>Ram Mohammad Thomas</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>593</id><title>The Man Who Wrote the Book</title><author_id>338</author_id><genre>Fic</genre><rating>4</rating><notes>Every Inch a Lady by E.A. Peau</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>594</id><title>A Window Facing West</title><author_id>339</author_id><genre>Fic</genre><rating>4</rating><notes>midlife crisis</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>595</id><title>The Battle of the Bulge</title><author_id>342</author_id><genre>Hist</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>596</id><title>The Adrian Mole Diaries</title><author_id>344</author_id><genre>Fic</genre><rating>4</rating><notes>Adrian &amp; Pandora</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>597</id><title>Plan B</title><author_id>348</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>598</id><title>The Book of Joe</title><author_id>348</author_id><genre>Fic</genre><rating>4</rating><notes>Joe, Carly &amp; Wayne</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>599</id><title>Rabbit at Rest</title><author_id>351</author_id><genre>Fic</genre><rating>4</rating><notes>Rabbit in 1990</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>600</id><title>Rabbit is Rich</title><author_id>351</author_id><genre>Fic</genre><rating>4</rating><notes>Rabbit in 1980</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>601</id><title>Rabbit, Run</title><author_id>351</author_id><genre>Fic</genre><rating>4</rating><notes>Rabbit in 1960</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>602</id><title>Slaughterhouse-Five</title><author_id>353</author_id><genre>Fic</genre><rating>4</rating><notes>WWII firebombing of Dresden</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>603</id><title>Big Fish</title><author_id>354</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>604</id><title>How to be Lost</title><author_id>357</author_id><genre>Fic</genre><rating>4</rating><notes>Caroline, Madeline &amp; Ellie</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>605</id><title>Diamond Dogs</title><author_id>359</author_id><genre>Fic</genre><rating>4</rating><notes>Neil Garvin</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>606</id><title>The Winter of Frankie Machine</title><author_id>363</author_id><genre>Fic</genre><rating>4</rating><notes>Frank Machianno</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>607</id><title>The Best of Wodehouse:  An Anthology</title><author_id>364</author_id><genre>Fic</genre><rating>4</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>608</id><title>The Code of the Woosters</title><author_id>364</author_id><genre>Fic</genre><rating>4</rating><notes>silver coffee creamer</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>609</id><title>Whacking Jimmy</title><author_id>365</author_id><genre>Fic</genre><rating>4</rating><notes>70s Detroit</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>610</id><title>Back in the World:  Stories</title><author_id>366</author_id><genre>Fic</genre><rating>4</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>611</id><title>In the Garden of the North American Martyrs</title><author_id>366</author_id><genre>Fic</genre><rating>4</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>612</id><title>The Vintage Book of Contemporary American Short Stories</title><author_id>367</author_id><genre>Fic</genre><rating>4</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>613</id><title>Rear Window and other stories</title><author_id>369</author_id><genre>Mys</genre><rating>4</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>614</id><title>The Caine Mutiny</title><author_id>370</author_id><genre>Fic</genre><rating>4</rating><notes>Keith, Queeg, Maryk &amp; Keefer</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>615</id><title>The Kite Runner</title><author_id>168</author_id><genre>Fic</genre><rating>4</rating><notes>Amir, Hassan &amp; Baba</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>616</id><title>Red Harvest</title><author_id>147</author_id><genre>Fic</genre><rating>4</rating><notes>Continental op; Poisonville</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>617</id><title>Fiasco:  A History of Hollywood's Iconic Flops</title><author_id>265</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>618</id><title>Thank You, Jeeves</title><author_id>364</author_id><genre>Fic</genre><rating>4</rating><notes>Chuffy; blackface</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>619</id><title>The Dain Curse</title><author_id>147</author_id><genre>Fic</genre><rating>3</rating><notes>Continental op; Gabrielle Leggett</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>620</id><title>Jeeves and the Tie that Binds</title><author_id>364</author_id><genre>Fic</genre><rating>4</rating><notes>also titled Much Obliged, Jeeves</notes><create_date>2000-01-01</create_date><read_date>2009-08-07</read_date>
+</book>
+<book>
+<id>621</id><title>Black Orchids</title><author_id>331</author_id><genre>Fic</genre><rating>4</rating><notes>Nero Wolfe</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>622</id><title>Tried by War:  Abraham Lincoln as Commander in Chief</title><author_id>243</author_id><genre>Bio</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>623</id><title>Ray in Reverse</title><author_id>354</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>624</id><title>The Witches of Eastwick</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>Alexandra, Jane, Sukie &amp; Darryl</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>625</id><title>Obscene in the Extreme:  The Burning and Banning of John Steinbeck's Grapes of Wrath</title><author_id>358</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>626</id><title>Tooth and Claw</title><author_id>35</author_id><genre>Fic</genre><rating>4</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>627</id><title>The Widows of Eastwick</title><author_id>351</author_id><genre>Fic</genre><rating>3</rating><notes>Alexandra, Jane, Sukie &amp; Chris Gabriel</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>628</id><title>The Assistant</title><author_id>231</author_id><genre>Fic</genre><rating>4</rating><notes>Morris, Ida, Helen &amp; Frank</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>629</id><title>The Pale Blue Eye</title><author_id>25</author_id><genre>Fic</genre><rating>3</rating><notes>Gus Landor &amp; Poe</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>630</id><title>The Big Sleep</title><author_id>56</author_id><genre>Fic</genre><rating>4</rating><notes>The Sternwoods</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>631</id><title>A Christmas Carol</title><author_id>84</author_id><genre>Fic</genre><rating>3</rating><notes>Scrooge &amp; the Cratchits</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>632</id><title>Playback</title><author_id>56</author_id><genre>Fic</genre><rating>3</rating><notes>Betty Mayfield</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>633</id><title>The Postman Always Rings Twice</title><author_id>46</author_id><genre>Fic</genre><rating>4</rating><notes>Frank Chambers, Cora &amp; Nick</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>634</id><title>The Sportswriter</title><author_id>115</author_id><genre>Fic</genre><rating>4</rating><notes>Frank Bascombe</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>635</id><title>Naked</title><author_id>304</author_id><genre>Mem</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>636</id><title>The Complete Sherlock Holmes, Volume I</title><author_id>92</author_id><genre>Fic</genre><rating>4</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>637</id><title>Jack Maggs</title><author_id>51</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>638</id><title>The Phantom Tollbooth</title><author_id>182</author_id><genre>KidFic</genre><rating>4</rating><notes>Milo</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>639</id><title>700 Sundays</title><author_id>72</author_id><genre>Mem</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>640</id><title>Consider the Lobster</title><author_id>355</author_id><genre>Non</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>641</id><title>Devil May Care</title><author_id>102</author_id><genre>Fic</genre><rating>3</rating><notes>James Bond</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>642</id><title>When We Were Romans</title><author_id>198</author_id><genre>Fic</genre><rating>3</rating><notes>Lawrence &amp; Jemima</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>643</id><title>Spade &amp; Archer</title><author_id>134</author_id><genre>Fic</genre><rating>4</rating><notes>Prequel to The Maltese Falcon</notes><create_date>2000-01-01</create_date><read_date>2011-06-25</read_date>
+</book>
+<book>
+<id>644</id><title>Securing the City</title><author_id>85</author_id><genre>Non</genre><rating>3</rating><notes>NYPD</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>645</id><title>The Maltese Falcon</title><author_id>147</author_id><genre>Fic</genre><rating>4</rating><notes>Sam Spade</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>646</id><title>Shoeless Joe</title><author_id>195</author_id><genre>Fic</genre><rating>4</rating><notes>Field of Dreams</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>647</id><title>The Cradle</title><author_id>321</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>648</id><title>The Valley of Fear</title><author_id>92</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>649</id><title>The Thin Man</title><author_id>147</author_id><genre>Fic</genre><rating>4</rating><notes>Nick and Nora Charles</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>650</id><title>Trouble is My Business</title><author_id>56</author_id><genre>Fic</genre><rating>3</rating><notes>Philip Marlowe stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>651</id><title>Fahrenheit 451</title><author_id>36</author_id><genre>Fic</genre><rating>4</rating><notes>Montag &amp; Clarisse</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>652</id><title>Nine Stories</title><author_id>298</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>653</id><title>Sarah's Key</title><author_id>290</author_id><genre>Fic</genre><rating>4</rating><notes>Vel' d'Hiv'</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>654</id><title>Road Dogs</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Foley &amp; Cundo</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>655</id><title>Fever Pitch</title><author_id>166</author_id><genre>Mem</genre><rating>4</rating><notes>Arsenal football</notes><create_date>2000-01-01</create_date><read_date>2011-08-10</read_date>
+</book>
+<book>
+<id>656</id><title>Dances with Wolves</title><author_id>31</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>657</id><title>Microsoft Visual C# 2008 Step by Step</title><author_id>311</author_id><genre>Non</genre><rating>3</rating><notes>Hopefully it pays off</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>658</id><title>Far from the Madding Crowd</title><author_id>149</author_id><genre>Fic</genre><rating>4</rating><notes>Bathsheba Everdene &amp; Gabriel Oak</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>659</id><title>Shakespeare Wrote For Money</title><author_id>166</author_id><genre>Fic</genre><rating>3</rating><notes>books purchased and read</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>660</id><title>Our Story Begins</title><author_id>366</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2009-08-11</create_date><read_date>2009-08-11</read_date>
+</book>
+<book>
+<id>661</id><title>Libra</title><author_id>80</author_id><genre>HistFic</genre><rating>2</rating><notes>Lee Harvey Oswald</notes><create_date>2009-08-16</create_date><read_date>2009-08-16</read_date>
+</book>
+<book>
+<id>662</id><title>Jeeves and the Feudal Spirit</title><author_id>364</author_id><genre>Fic</genre><rating>4</rating><notes>Stilton Cheesewright</notes><create_date>2009-08-28</create_date><read_date>2009-08-28</read_date>
+</book>
+<book>
+<id>663</id><title>Plato and a Platypus Walk Into a Bar...Understanding Philosophy Through Jokes</title><author_id>374</author_id><genre>Non</genre><rating>3</rating><notes>Philosophy and jokes</notes><create_date>2009-09-04</create_date><read_date>2009-09-04</read_date>
+</book>
+<book>
+<id>664</id><title>This Is Where I Leave You</title><author_id>348</author_id><genre>Fic</genre><rating>3</rating><notes>The Foxman family</notes><create_date>2009-09-11</create_date><read_date>2009-09-11</read_date>
+</book>
+<book>
+<id>665</id><title>The Prisoner of Zenda</title><author_id>375</author_id><genre>Fic</genre><rating>4</rating><notes>Rudolf Rassendyll; audio</notes><create_date>2009-09-18</create_date><read_date>2009-09-18</read_date>
+</book>
+<book>
+<id>666</id><title>The Mysterious Affair at Styles</title><author_id>58</author_id><genre>Fic</genre><rating>3</rating><notes>Hercule Poirot; audio</notes><create_date>2009-09-19</create_date><read_date>2009-09-19</read_date>
+</book>
+<book>
+<id>667</id><title>Head First Java</title><author_id>376</author_id><genre>Non</genre><rating>3</rating><notes>first look at Java</notes><create_date>2009-10-03</create_date><read_date>2009-10-03</read_date>
+</book>
+<book>
+<id>668</id><title>Both Ways is the Only Way I Want It</title><author_id>377</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2009-10-14</create_date><read_date>2009-10-14</read_date>
+</book>
+<book>
+<id>669</id><title>Death and the Penguin</title><author_id>378</author_id><genre>Fic</genre><rating>4</rating><notes>Viktor, Nina, Sonya &amp; Misha</notes><create_date>2009-10-20</create_date><read_date>2009-10-20</read_date>
+</book>
+<book>
+<id>670</id><title>Conquering Gotham - A Guilded Age Epic: The Construction of Penn Station and Its Tunnels</title><author_id>379</author_id><genre>Non</genre><rating>3</rating><notes>Alexander Cassett &amp; the PRR</notes><create_date>2009-10-29</create_date><read_date>2009-10-29</read_date>
+</book>
+<book>
+<id>671</id><title>The Goodbye Look</title><author_id>227</author_id><genre>Fic</genre><rating>3</rating><notes>Lew Archer; Nick Chalmers</notes><create_date>2009-11-09</create_date><read_date>2009-11-09</read_date>
+</book>
+<book>
+<id>672</id><title>The Thirty-Nine Steps</title><author_id>380</author_id><genre>Fic</genre><rating>3</rating><notes>Richard Hannay</notes><create_date>2009-11-15</create_date><read_date>2009-11-15</read_date>
+</book>
+<book>
+<id>673</id><title>Little Dorrit</title><author_id>84</author_id><genre>Fic</genre><rating>3</rating><notes>Arthur Clennam, Amy and the Father of the Marshalsea</notes><create_date>2009-12-16</create_date><read_date>2009-12-16</read_date>
+</book>
+<book>
+<id>674</id><title>Around the World in Eighty Days</title><author_id>381</author_id><genre>Fic</genre><rating>4</rating><notes>Phileas Fogg, Passepartout &amp; Aouda</notes><create_date>2009-12-23</create_date><read_date>2009-12-23</read_date>
+</book>
+<book>
+<id>675</id><title>The Rejection Collection</title><author_id>382</author_id><genre>Non</genre><rating>3</rating><notes>Cartoons rejected by The New Yorker</notes><create_date>2009-12-28</create_date><read_date>2009-12-28</read_date>
+</book>
+<book>
+<id>676</id><title>1001 Dumbest Things Ever Said</title><author_id>383</author_id><genre>Non</genre><rating>3</rating><notes>dumb quotes</notes><create_date>2009-12-30</create_date><read_date>2009-12-30</read_date>
+</book>
+<book>
+<id>677</id><title>The Rejection Collection Vol. 2 - The Cream of the Crap</title><author_id>382</author_id><genre>Non</genre><rating>3</rating><notes>More cartoons rejected by The New Yorker</notes><create_date>2009-12-30</create_date><read_date>2009-12-30</read_date>
+</book>
+<book>
+<id>678</id><title>Juliet, Naked</title><author_id>166</author_id><genre>Fic</genre><rating>3</rating><notes>Duncan, Annie &amp; Tucker Crowe</notes><create_date>2010-01-06</create_date><read_date>2010-01-06</read_date>
+</book>
+<book>
+<id>679</id><title>City of Thieves</title><author_id>384</author_id><genre>Fic</genre><rating>4</rating><notes>Lev, Kolya &amp; Vika; siege of Leningrad</notes><create_date>2010-01-20</create_date><read_date>2010-01-20</read_date>
+</book>
+<book>
+<id>680</id><title>Paddy Clarke Ha Ha Ha</title><author_id>93</author_id><genre>Fic</genre><rating>4</rating><notes>Patrick, Francis &amp; Kevin; heartbreaking</notes><create_date>2010-01-28</create_date><read_date>2010-01-28</read_date>
+</book>
+<book>
+<id>681</id><title>Talking About Detective Fiction</title><author_id>177</author_id><genre>Non</genre><rating>3</rating><notes>mostly about British authors</notes><create_date>2010-01-31</create_date><read_date>2010-01-31</read_date>
+</book>
+<book>
+<id>682</id><title>The Complete Sherlock Holmes, Volume II</title><author_id>92</author_id><genre>Fic</genre><rating>4</rating><notes>NULL</notes><create_date>2010-02-15</create_date><read_date>2010-02-15</read_date>
+</book>
+<book>
+<id>683</id><title>When the Nines Roll Over &amp; Other Stories</title><author_id>384</author_id><genre>Fic</genre><rating>4</rating><notes>stories</notes><create_date>2010-02-19</create_date><read_date>2010-02-19</read_date>
+</book>
+<book>
+<id>684</id><title>As She Climbed Across the Table</title><author_id>214</author_id><genre>Fic</genre><rating>3</rating><notes>Philip, Alice &amp; the Lack</notes><create_date>2010-02-20</create_date><read_date>2010-02-20</read_date>
+</book>
+<book>
+<id>685</id><title>Journey to the Center of the Earth</title><author_id>381</author_id><genre>Fic</genre><rating>3</rating><notes>Prof. Lidenbrock, Axel &amp; Hans</notes><create_date>2010-02-25</create_date><read_date>2010-02-25</read_date>
+</book>
+<book>
+<id>686</id><title>Pride and Prejudice and Zombies</title><author_id>385</author_id><genre>Fic</genre><rating>3</rating><notes>Elizabeth &amp; Darcy</notes><create_date>2010-03-09</create_date><read_date>2010-03-09</read_date>
+</book>
+<book>
+<id>687</id><title>FDR</title><author_id>386</author_id><genre>Bio</genre><rating>4</rating><notes>The life of Franklin Delano Roosevelt</notes><create_date>2010-04-02</create_date><read_date>2010-04-02</read_date>
+</book>
+<book>
+<id>688</id><title>Horns</title><author_id>162</author_id><genre>Fic</genre><rating>3</rating><notes>Ig &amp; Merrin</notes><create_date>2010-04-04</create_date><read_date>2010-04-04</read_date>
+</book>
+<book>
+<id>689</id><title>The Moviegoer</title><author_id>387</author_id><genre>Fic</genre><rating>3</rating><notes>Binx Bolling &amp; Kate</notes><create_date>2010-04-14</create_date><read_date>2010-04-14</read_date>
+</book>
+<book>
+<id>690</id><title>Java Servlets and JSP</title><author_id>388</author_id><genre>Non</genre><rating>3</rating><notes>2nd Edition</notes><create_date>2010-05-13</create_date><read_date>2010-05-13</read_date>
+</book>
+<book>
+<id>691</id><title>Open</title><author_id>389</author_id><genre>Bio</genre><rating>3</rating><notes>Andre, Stefanie &amp; Gil</notes><create_date>2010-05-30</create_date><read_date>2010-05-30</read_date>
+</book>
+<book>
+<id>692</id><title>Father Brown - The Essential Tales</title><author_id>390</author_id><genre>Fic</genre><rating>3</rating><notes>stories</notes><create_date>2010-07-04</create_date><read_date>2010-07-04</read_date>
+</book>
+<book>
+<id>693</id><title>An Education</title><author_id>391</author_id><genre>Bio</genre><rating>3</rating><notes>Lynn, Simon &amp; David</notes><create_date>2010-07-09</create_date><read_date>2010-07-09</read_date>
+</book>
+<book>
+<id>694</id><title>Oracle PL/SQL For Dummies</title><author_id>392</author_id><genre>Non</genre><rating>3</rating><notes>good refresher</notes><create_date>2010-07-18</create_date><read_date>2010-07-18</read_date>
+</book>
+<book>
+<id>695</id><title>Jeeves: Joy in the Morning</title><author_id>364</author_id><genre>Fic</genre><rating>3</rating><notes>audio; full dramatization</notes><create_date>2010-08-01</create_date><read_date>2010-08-01</read_date>
+</book>
+<book>
+<id>696</id><title>Don Quixote</title><author_id>393</author_id><genre>Fic</genre><rating>4</rating><notes>Sancho Panza, Dulcinea of Toboso &amp; The Knight of the Sorrowful Face</notes><create_date>2010-08-02</create_date><read_date>2010-08-02</read_date>
+</book>
+<book>
+<id>697</id><title>Jeeves Takes Charge and other stories</title><author_id>364</author_id><genre>Fic</genre><rating>3</rating><notes>stories; audio</notes><create_date>2010-08-03</create_date><read_date>2010-08-03</read_date>
+</book>
+<book>
+<id>698</id><title>Major Pettigrew's Last Stand</title><author_id>394</author_id><genre>Fic</genre><rating>4</rating><notes>Ernest &amp; Mrs. Ali</notes><create_date>2010-08-29</create_date><read_date>2010-08-29</read_date>
+</book>
+<book>
+<id>699</id><title>Head First HTML with CSS &amp; XHTML</title><author_id>395</author_id><genre>Non</genre><rating>3</rating><notes>good stuff</notes><create_date>2010-09-06</create_date><read_date>2010-09-06</read_date>
+</book>
+<book>
+<id>700</id><title>Twenty Thousand Leagues Under the Seas</title><author_id>381</author_id><genre>Fic</genre><rating>3</rating><notes>Capt. Nemo, Prof. Arronnax &amp; Ned Land</notes><create_date>2010-09-12</create_date><read_date>2010-09-12</read_date>
+</book>
+<book>
+<id>701</id><title>Rumpole Rests His Case</title><author_id>254</author_id><genre>Fic</genre><rating>3</rating><notes>Horace Rumpole; stories</notes><create_date>2010-10-03</create_date><read_date>2010-10-03</read_date>
+</book>
+<book>
+<id>702</id><title>Djibouti</title><author_id>213</author_id><genre>Fic</genre><rating>3</rating><notes>Dara, Xavier &amp; Jama</notes><create_date>2010-10-26</create_date><read_date>2010-10-26</read_date>
+</book>
+<book>
+<id>703</id><title>The Best American Comics 2006</title><author_id>396</author_id><genre>Graph</genre><rating>3</rating><notes>comics</notes><create_date>2010-11-03</create_date><read_date>2010-11-03</read_date>
+</book>
+<book>
+<id>704</id><title>The Good Rat</title><author_id>397</author_id><genre>Non</genre><rating>3</rating><notes>Burt Kaplan; mobsters</notes><create_date>2010-11-12</create_date><read_date>2010-11-12</read_date>
+</book>
+<book>
+<id>705</id><title>Programming Google App Engine</title><author_id>398</author_id><genre>Non</genre><rating>3</rating><notes>Google Apps</notes><create_date>2010-11-23</create_date><read_date>2010-11-23</read_date>
+</book>
+<book>
+<id>706</id><title>Never Have Your Dog Stuffed and Other Things I've Learned</title><author_id>399</author_id><genre>Mem</genre><rating>3</rating><notes>Alphonse D'Abruzzo</notes><create_date>2010-12-09</create_date><read_date>2010-12-09</read_date>
+</book>
+<book>
+<id>707</id><title>The Girl Who Kicked the Hornet's Nest</title><author_id>400</author_id><genre>Fic</genre><rating>4</rating><notes>Lisbeth Salander &amp; Mikael Blomkvist</notes><create_date>2010-12-30</create_date><read_date>2010-12-30</read_date>
+</book>
+<book>
+<id>708</id><title>Shooting Kabul</title><author_id>401</author_id><genre>KidFic</genre><rating>3</rating><notes>Fadi &amp; Mariam</notes><create_date>2011-01-01</create_date><read_date>2011-01-01</read_date>
+</book>
+<book>
+<id>709</id><title>Operation Mincemeat: How a Dead Man and Bizarre Plan Fooled the Nazis and Assured an Allied Victory</title><author_id>402</author_id><genre>Non</genre><rating>4</rating><notes>Maj. William Martin</notes><create_date>2011-01-11</create_date><read_date>2011-01-11</read_date>
+</book>
+<book>
+<id>710</id><title>Gulliver's Travels</title><author_id>403</author_id><genre>Fic</genre><rating>4</rating><notes>Yahoos and Houyhnhnms</notes><create_date>2011-01-24</create_date><read_date>2011-01-24</read_date>
+</book>
+<book>
+<id>711</id><title>It's Not How Good You Are, It's How Good You Want To Be</title><author_id>404</author_id><genre>Non</genre><rating>2</rating><notes>Gift from MRM CEO</notes><create_date>2011-01-25</create_date><read_date>2011-01-25</read_date>
+</book>
+<book>
+<id>712</id><title>The Chinaman</title><author_id>405</author_id><genre>Fic</genre><rating>4</rating><notes>Sergeant Studer; Ludwig Farny</notes><create_date>2011-02-01</create_date><read_date>2011-02-01</read_date>
+</book>
+<book>
+<id>713</id><title>Right Ho, Jeeves</title><author_id>364</author_id><genre>Fic</genre><rating>3</rating><notes>Gussie Fink-Nottle presents prizes at Market Snodsbury school</notes><create_date>2011-02-12</create_date><read_date>2011-02-12</read_date>
+</book>
+<book>
+<id>714</id><title>Unbroken</title><author_id>163</author_id><genre>Bio</genre><rating>4</rating><notes>Louis Zamperini; The Bird</notes><create_date>2011-03-05</create_date><read_date>2011-03-05</read_date>
+</book>
+<book>
+<id>715</id><title>Sun Certified Programmer for Java 6 Study Guide</title><author_id>376</author_id><genre>Non</genre><rating>3</rating><notes>First pass for SCJP</notes><create_date>2011-03-06</create_date><read_date>2011-03-06</read_date>
+</book>
+<book>
+<id>716</id><title>Cautionary Tales</title><author_id>406</author_id><genre>Non</genre><rating>3</rating><notes>short book, funny</notes><create_date>2011-03-12</create_date><read_date>2011-03-12</read_date>
+</book>
+<book>
+<id>717</id><title>Killer</title><author_id>407</author_id><genre>Fic</genre><rating>3</rating><notes>Jack Rhodes</notes><create_date>2011-03-16</create_date><read_date>2011-03-16</read_date>
+</book>
+<book>
+<id>718</id><title>Rawhide Down: The Near Assassination of Ronald Reagan</title><author_id>408</author_id><genre>Non</genre><rating>3</rating><notes>John W. Hinkley, Jr.</notes><create_date>2011-03-21</create_date><read_date>2011-03-21</read_date>
+</book>
+<book>
+<id>719</id><title>The Grimm Curse (Once Upon a Time is Now)</title><author_id>407</author_id><genre>Fic</genre><rating>3</rating><notes>Jacob Grimm &amp; Madeleine</notes><create_date>2011-03-24</create_date><read_date>2011-03-24</read_date>
+</book>
+<book>
+<id>720</id><title>The Tragedy of Pudd'nhead Wilson</title><author_id>350</author_id><genre>Fic</genre><rating>4</rating><notes>David, Roxy &amp; Tom Driscoll</notes><create_date>2011-04-03</create_date><read_date>2011-04-03</read_date>
+</book>
+<book>
+<id>721</id><title>Vegas Moon</title><author_id>409</author_id><genre>Fic</genre><rating>3</rating><notes>Donovan Creed; fun</notes><create_date>2011-04-26</create_date><read_date>2011-04-26</read_date>
+</book>
+<book>
+<id>722</id><title>Smarter By Sunday</title><author_id>410</author_id><genre>Non</genre><rating>3</rating><notes>52 topics of essential knowledge</notes><create_date>2011-05-07</create_date><read_date>2011-05-07</read_date>
+</book>
+<book>
+<id>723</id><title>The Private Patient</title><author_id>177</author_id><genre>Fic</genre><rating>3</rating><notes>Adam Dalgliesh; George Chandler-Powell</notes><create_date>2011-05-09</create_date><read_date>2011-05-09</read_date>
+</book>
+<book>
+<id>724</id><title>Ape House</title><author_id>140</author_id><genre>Fic</genre><rating>3</rating><notes>Isabel, John Thigpen, Bonzi, Mbongo &amp; the other bonobos</notes><create_date>2011-05-14</create_date><read_date>2011-05-14</read_date>
+</book>
+<book>
+<id>725</id><title>Google App Engine Java and GWT Application Development</title><author_id>411</author_id><genre>Non</genre><rating>3</rating><notes>UI Binding, Login servlets &amp; MVP development</notes><create_date>2011-05-13</create_date><read_date>2011-05-13</read_date>
+</book>
+<book>
+<id>726</id><title>The Sisters Brothers</title><author_id>412</author_id><genre>Fic</genre><rating>3</rating><notes>Eli &amp; Charlie;gold mining</notes><create_date>2011-07-02</create_date><read_date>2011-07-02</read_date>
+</book>
+<book>
+<id>727</id><title>The Unbearable Lightness of Being</title><author_id>203</author_id><genre>Fic</genre><rating>4</rating><notes>Tereza &amp; Tomas;Czechoslovakia during Soviet occupation</notes><create_date>2011-07-08</create_date><read_date>2011-07-08</read_date>
+</book>
+<book>
+<id>728</id><title>Johnny One-Eye</title><author_id>413</author_id><genre>Fic</genre><rating>4</rating><notes>Johnny, Clara, Gert &amp; the Farmer-in-Chief; Revoltionary War</notes><create_date>2011-07-18</create_date><read_date>2011-07-18</read_date>
+</book>
+<book>
+<id>729</id><title>Stories I Only Tell My Friends</title><author_id>414</author_id><genre>Mem</genre><rating>3</rating><notes>Rob &amp; Sheryl; Brat Pack</notes><create_date>2011-08-17</create_date><read_date>2011-08-17</read_date>
+</book>
+<book>
+<id>730</id><title>In The Garden of Beasts</title><author_id>206</author_id><genre>Hist</genre><rating>3</rating><notes>William E. Dodd; Martha; Berlin 1933-1937; Rohm-Putsch</notes><create_date>2011-09-06</create_date><read_date>2011-09-06</read_date>
+</book>
+<book>
+<id>731</id><title>The Underground Man</title><author_id>227</author_id><genre>Fic</genre><rating>3</rating><notes>Ronny Broadhurst; Hillside fire</notes><create_date>2011-09-16</create_date><read_date>2011-09-16</read_date>
+</book>
+<book>
+<id>732</id><title>Counterstrike: The Untold Story of America's Secret Campaign Against al Qaeda</title><author_id>415</author_id><genre>Non</genre><rating>3</rating><notes>war on terror</notes><create_date>2011-10-04</create_date><read_date>2011-10-04</read_date>
+</book>
+<book>
+<id>733</id><title>Sherlock Holmes of Baker Street: A Life of the World's First Consulting Detective</title><author_id>416</author_id><genre>Fic</genre><rating>3</rating><notes>fictional biography</notes><create_date>2011-10-07</create_date><read_date>2011-10-07</read_date>
+</book>
+<book>
+<id>734</id><title>Squirrel Seeks Chipmonk</title><author_id>304</author_id><genre>Fic</genre><rating>4</rating><notes>parables in the vein of Aesop or Animal Farm</notes><create_date>2011-10-08</create_date><read_date>2011-10-08</read_date>
+</book>
+<book>
+<id>735</id><title>Nobody Move</title><author_id>417</author_id><genre>Fic</genre><rating>2</rating><notes>Jimmy Luntz, Anita Desilvera</notes><create_date>2011-10-13</create_date><read_date>2011-10-13</read_date>
+</book>
+<book>
+<id>736</id><title>The Family Man</title><author_id>418</author_id><genre>Fic</genre><rating>3</rating><notes>Henry Archer, Thalia &amp; Denise</notes><create_date>2011-10-20</create_date><read_date>2011-10-20</read_date>
+</book>
+<book>
+<id>737</id><title>Lethal Experiment</title><author_id>409</author_id><genre>Fic</genre><rating>3</rating><notes>Donovan Creed; he gets a new face</notes><create_date>2011-10-30</create_date><read_date>2011-10-30</read_date>
+</book>
+<book>
+<id>738</id><title>HTML5 For Web Designers</title><author_id>419</author_id><genre>Non</genre><rating>2</rating><notes>Decent primer on HTML5</notes><create_date>2011-11-01</create_date><read_date>2011-11-01</read_date>
+</book>
+<book>
+<id>739</id><title>Carte Blanche</title><author_id>78</author_id><genre>Fic</genre><rating>3</rating><notes>James Bond; Severan Hydt, Niall Dunne; Incident Twenty</notes><create_date>2011-11-05</create_date><read_date>2011-11-05</read_date>
+</book>
+<book>
+<id>740</id><title>From Russia With Love</title><author_id>420</author_id><genre>Fic</genre><rating>3</rating><notes>James Bond; Tatiana Romanova; SMERSH; Spektor cipher machine</notes><create_date>2011-11-10</create_date><read_date>2011-11-10</read_date>
+</book>
+<book>
+<id>741</id><title>The House of Silk</title><author_id>421</author_id><genre>Fic</genre><rating>3</rating><notes>Sherlock Holmes; Edmond Carstairs; Sherlock charged with murder</notes><create_date>2011-11-15</create_date><read_date>2011-11-15</read_date>
+</book>
+<book>
+<id>742</id><title>A Confederacy of Dunces</title><author_id>422</author_id><genre>Fic</genre><rating>4</rating><notes>Ignatius J. Reilly. Incredible character like Don Quixote or Rabbit Angstrom; Myrna Minkoff; Levy Pants; Paradise Vendors</notes><create_date>2011-12-01</create_date><read_date>2011-12-01</read_date>
+</book>
+<book>
+<id>743</id><title>11/22/63</title><author_id>194</author_id><genre>Fic</genre><rating>4</rating><notes>Jake Epping/George Amberson; Sadie; Jodie,  Texas; time travel; prevent Kennedy Assassination</notes><create_date>2011-12-12</create_date><read_date>2011-12-12</read_date>
+</book>
+<book>
+<id>744</id><title>Goldfinger</title><author_id>420</author_id><genre>Fic</genre><rating>4</rating><notes>Auric Goldfinger; Oddjob; Pussy Galore</notes><create_date>2011-12-20</create_date><read_date>2011-12-20</read_date>
+</book>
+<book>
+<id>745</id><title>Hello, Android</title><author_id>423</author_id><genre>Non</genre><rating>3</rating><notes>Introducing Google's Mobile Development Platform</notes><create_date>2011-12-27</create_date><read_date>2011-12-27</read_date>
+</book>
+</books>

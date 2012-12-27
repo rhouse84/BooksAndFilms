@@ -1,0 +1,21 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+
+    <ui:style src="../Resources/GlobalStyles.css" />
+    
+	<g:HTMLPanel width='100%'>
+		<div>
+			<g:Label ui:field='loadingLabel' styleName='{style.loading}'>Loading...</g:Label>
+			<div>
+				<label class='{style.labelPadding} {style.quoteTitle} {style.clearLeft}'>Book Title</label>
+				<label class='{style.labelPadding} {style.quoteTitle}'>Film Title</label>
+				<label class='{style.labelPadding} {style.quoteTitle}'>Character</label>
+				<label class='{style.labelPadding} {style.labelQuoteNotes}'>Quote</label>
+			</div>
+			<g:ScrollPanel ui:field='scrollPanel' styleName='{style.scrollPanel}'>
+				<g:FlexTable ui:field='quotesTable' />
+			</g:ScrollPanel>
+		</div>
+	</g:HTMLPanel>
+</ui:UiBinder>

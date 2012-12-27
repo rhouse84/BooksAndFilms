@@ -1,0 +1,20 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui"
+	xmlns:m="urn:import:booksandfilms.client.widget">
+    
+    <ui:style src="../Resources/GlobalStyles.css" />
+    
+	<g:HTMLPanel width='100%'>
+		<div class='{style.contentColumn}'>
+			<div class='{style.addBox}'>
+				<g:Hyperlink styleName='{style.addLink}' ui:field='addNew'>+new</g:Hyperlink>
+			</div>
+			<div class="{style.titleBar}">Topics</div>
+			<g:Label ui:field='loadingLabel' styleName='{style.loading}'>Loading...</g:Label>
+			<g:TextBox ui:field='searchBox' />
+			<g:Button ui:field="searchButton">search</g:Button>
+			<m:UnorderedListWidget ui:field='topicsTable' />
+		</div>
+	</g:HTMLPanel>
+</ui:UiBinder>

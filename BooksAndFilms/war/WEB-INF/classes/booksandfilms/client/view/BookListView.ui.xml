@@ -1,0 +1,46 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+
+    <ui:style src="../Resources/GlobalStyles.css" />
+    
+	<g:HTMLPanel>
+		<div>
+			<div class='{style.addBox}'>
+				<g:Hyperlink styleName='{style.addLink}' ui:field='addNew'>+new</g:Hyperlink>
+			</div>
+			<g:TextBox ui:field='searchBox' styleName='{style.search}' />
+			<label class='{style.labelPadding}'>Filter by Author</label><g:ListBox ui:field='authorsField' />
+			<g:Label ui:field='loadingLabel' styleName='{style.loading}'>Loading...</g:Label>
+			<table class='{style.tableHead}'>
+			    <colgroup>
+			        <col style="width:17%; "></col>
+			        <col style="width:16%; "></col>
+			        <col style="width:1%; "></col>
+			        <col style="width:4%; "></col>
+			        <col style="width:18%; "></col>
+			        <col style="width:4%; "></col>
+			        <col style="width:7%; "></col>
+			        <col style="width:7%; "></col>
+			        <col style="width:23%; "></col>
+			    </colgroup>
+			    <thead>
+					<tr>
+					    <th colspan="1"><g:Anchor href='javascript:;' ui:field='sortTitle'>Title</g:Anchor></th>
+						<th colspan="1"><g:Anchor href='javascript:;' ui:field='sortAuthor'>Author</g:Anchor></th>
+						<th colspan="1"></th>			
+						<th colspan="1"><g:Anchor href='javascript:;' ui:field='sortRating'>Rating</g:Anchor></th>			
+						<th colspan="1">Notes</th>
+						<th colspan="1"><g:Anchor href='javascript:;' ui:field='sortGenre'>Genre</g:Anchor></th>			
+						<th colspan="1"><g:Anchor href='javascript:;' ui:field='sortReadDate'>Read Date</g:Anchor></th>			
+						<th colspan="1">Create Date</th>
+						<th colspan="1">Topic</th>
+					</tr>
+				</thead>
+			</table>
+			<g:ScrollPanel ui:field='scrollPanel' styleName='{style.scrollPanel}'>
+				<g:FlexTable ui:field='booksTable' />
+			</g:ScrollPanel>
+		</div>
+	</g:HTMLPanel>
+</ui:UiBinder> 

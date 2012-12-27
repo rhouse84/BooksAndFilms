@@ -1,0 +1,18 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+
+    <ui:style src="../Resources/GlobalStyles.css" />
+    
+	<g:HTMLPanel width='100%'>
+		<div class='{style.contentColumn}'>
+			<div class='{style.addBox}'>
+				<g:Hyperlink styleName='{style.addLink}' ui:field='addNew'>+new</g:Hyperlink>
+			</div>
+			<div class="{style.titleBar}">Users</div>
+			<g:Label ui:field='loadingLabel' styleName='{style.loading}'>Loading...</g:Label>
+			<g:TextBox ui:field='searchBox' />
+			<g:FlexTable ui:field='usersTable' />
+		</div>
+	</g:HTMLPanel>
+</ui:UiBinder>

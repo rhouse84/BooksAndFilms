@@ -1,0 +1,72 @@
+package booksandfilms.client.Resources;
+
+import com.google.gwt.resources.client.CssResource;
+
+public interface GlobalStyles extends CssResource {
+
+	@ClassName("gwt-DialogBox")
+	String gwtDialogBox();
+	String link();
+	String tagLine();
+	String dialogVPanel();
+	String help();
+	String formButtons();
+	String button();
+	String popup();
+	String mediaPopup();
+	String mainPanel();
+	String scrollPanel();
+	String formTitle();
+	String welcomeDiv();
+	String contentColumn();
+	String boxPadding();
+	String headerContainer();
+	String outer();
+	String addBox();
+	String addLink();
+	String formContainer();
+	String titleBar();
+	String loading();
+	String bookDiv();
+	String quoteDiv();
+	String search();
+	String labelTitle();
+	String labelFilmTitle();
+	String labelQuoteTitle();
+	String labelAuthor();
+	String labelDirector();
+	String labelPadding();
+	String labelPadding2();
+	String labelNotes();
+	String labelFilmNotes();
+	String labelQuoteNotes();
+	String labelStars();
+	String labelDate();
+	String labelFilmDate();
+	String labelRating();
+	String labelFilmYear();
+	String labelFilmRating();
+	String labelOther();
+	String labelYear();
+	String labelColumn();
+	String labelTopic();
+	String flexTableColumnLabelCell();
+	String flexTableCell();
+	String flexTableCell2();
+	String flexTableCell3();
+	String flexTableTitle();
+	String flexTableAuthor();
+	String flexTableDirector();
+	String clearLeft();
+	String flexTableNotes();
+	String flexTableStars();
+	String flexTableQuote();
+	String flexTableDate();
+	String flexTableFilmDate();
+	String flexTableRating();
+	String flexTableGenre();
+	String pointer();
+	String updateCell();
+	String quoteTitle();
+	String tableHead();
+}

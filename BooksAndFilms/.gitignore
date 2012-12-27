@@ -1,0 +1,6 @@
+bin
+.metadata
+gwt-unitCache
+war/WEB-INF/appengine-generated
+war/WEB-INF/deploy
+war/booksandfilms

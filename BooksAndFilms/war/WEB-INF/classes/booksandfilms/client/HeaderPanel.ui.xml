@@ -1,0 +1,22 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+  xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+
+  <ui:style src="Resources/GlobalStyles.css" />
+    
+	<g:HTMLPanel>
+		<div class='{style.headerContainer}'>
+			<div>
+				<div class="{style.welcomeDiv}">
+					<g:Anchor href='javascript:;' ui:field='loadAuthors'>Load Authors</g:Anchor>
+					<g:Anchor href='javascript:;' ui:field='loadBooks'>Load Books</g:Anchor>
+					<g:Anchor href='javascript:;' ui:field='loadDirectors'>Load Directors</g:Anchor>
+					<g:Anchor href='javascript:;' ui:field='loadFilms'>Load Films</g:Anchor>
+					<g:Anchor href='javascript:;' ui:field='loadQuotes'>Load Quotes</g:Anchor>
+					<g:VerticalPanel ui:field='userBadgePanel'></g:VerticalPanel>
+				</div>
+				<div class='{style.tagLine}'>What I'm reading and watching</div>
+			</div>
+		</div>
+	</g:HTMLPanel>
+</ui:UiBinder>

@@ -1,0 +1,1272 @@
+<?xml version="1.0"?>
+<authors>
+<row>
+  <author_id>1</author_id><name>Abagnale Jr., Frank</name>
+</row>
+<row>
+  <author_id>2</author_id><name>Adams, Douglas</name>
+</row>
+<row>
+  <author_id>3</author_id><name>Album, Mitch</name>
+</row>
+<row>
+  <author_id>4</author_id><name>Allyn, Doug</name>
+</row>
+<row>
+  <author_id>5</author_id><name>Ambrose, Stephen</name>
+</row>
+<row>
+  <author_id>6</author_id><name>Amick, Steve</name>
+</row>
+<row>
+  <author_id>7</author_id><name>Amis, Martin</name>
+</row>
+<row>
+  <author_id>8</author_id><name>Anastas, Benjamin</name>
+</row>
+<row>
+  <author_id>9</author_id><name>Anderson, Scott</name>
+</row>
+<row>
+  <author_id>10</author_id><name>Ansay, A. Manette</name>
+</row>
+<row>
+  <author_id>11</author_id><name>Ascher, Kate</name>
+</row>
+<row>
+  <author_id>12</author_id><name>Austen, Jane</name>
+</row>
+<row>
+  <author_id>13</author_id><name>Auster, Paul</name>
+</row>
+<row>
+  <author_id>14</author_id><name>Baker, Keith</name>
+</row>
+<row>
+  <author_id>15</author_id><name>Balducci, David</name>
+</row>
+<row>
+  <author_id>16</author_id><name>Banbury, Jen</name>
+</row>
+<row>
+  <author_id>17</author_id><name>Banks, Lynn Reid</name>
+</row>
+<row>
+  <author_id>18</author_id><name>Barclay, Max</name>
+</row>
+<row>
+  <author_id>19</author_id><name>Barrett, Andrea</name>
+</row>
+<row>
+  <author_id>20</author_id><name>Barry, Dave</name>
+</row>
+<row>
+  <author_id>21</author_id><name>Batchelder, Chris</name>
+</row>
+<row>
+  <author_id>22</author_id><name>Bathhurst, Bella</name>
+</row>
+<row>
+  <author_id>23</author_id><name>Bausch, Robert</name>
+</row>
+<row>
+  <author_id>24</author_id><name>Baxter, Charles</name>
+</row>
+<row>
+  <author_id>25</author_id><name>Bayard, Louis</name>
+</row>
+<row>
+  <author_id>26</author_id><name>Bedford, Martyn</name>
+</row>
+<row>
+  <author_id>27</author_id><name>Bellow, Saul</name>
+</row>
+<row>
+  <author_id>28</author_id><name>Berg, Elizabeth</name>
+</row>
+<row>
+  <author_id>29</author_id><name>Berger, Thomas</name>
+</row>
+<row>
+  <author_id>30</author_id><name>Bissinger, Buzz</name>
+</row>
+<row>
+  <author_id>31</author_id><name>Blake, Michael</name>
+</row>
+<row>
+  <author_id>32</author_id><name>Bodanis, David</name>
+</row>
+<row>
+  <author_id>33</author_id><name>Bouelle, Pierre</name>
+</row>
+<row>
+  <author_id>34</author_id><name>Bourdain, Anthony</name>
+</row>
+<row>
+  <author_id>35</author_id><name>Boyle, T. C.</name>
+</row>
+<row>
+  <author_id>36</author_id><name>Bradbury, Ray</name>
+</row>
+<row>
+  <author_id>37</author_id><name>Bram, Christoper</name>
+</row>
+<row>
+  <author_id>38</author_id><name>Brokaw, Tom</name>
+</row>
+<row>
+  <author_id>39</author_id><name>Bronte, Charlotte</name>
+</row>
+<row>
+  <author_id>40</author_id><name>Brooks, Geraldine</name>
+</row>
+<row>
+  <author_id>41</author_id><name>Brooks, Terry</name>
+</row>
+<row>
+  <author_id>42</author_id><name>Bruno, Anthony</name>
+</row>
+<row>
+  <author_id>43</author_id><name>Buckley, Christopher</name>
+</row>
+<row>
+  <author_id>44</author_id><name>Burroughs, Edgar Rice</name>
+</row>
+<row>
+  <author_id>45</author_id><name>Burton, Robert</name>
+</row>
+<row>
+  <author_id>46</author_id><name>Cain, James M</name>
+</row>
+<row>
+  <author_id>47</author_id><name>Canin, Ethan</name>
+</row>
+<row>
+  <author_id>48</author_id><name>Cannell, Stephen J.</name>
+</row>
+<row>
+  <author_id>49</author_id><name>Capote, Truman</name>
+</row>
+<row>
+  <author_id>50</author_id><name>Card, Orson Scott</name>
+</row>
+<row>
+  <author_id>51</author_id><name>Carey, Peter</name>
+</row>
+<row>
+  <author_id>52</author_id><name>Carr, James Lloyd</name>
+</row>
+<row>
+  <author_id>53</author_id><name>Carver, Raymond</name>
+</row>
+<row>
+  <author_id>54</author_id><name>Chabon, Michael</name>
+</row>
+<row>
+  <author_id>55</author_id><name>Chandler, Charlotte</name>
+</row>
+<row>
+  <author_id>56</author_id><name>Chandler, Raymond</name>
+</row>
+<row>
+  <author_id>57</author_id><name>Chen, Da</name>
+</row>
+<row>
+  <author_id>58</author_id><name>Christie, Agatha</name>
+</row>
+<row>
+  <author_id>59</author_id><name>Ciment, Jill</name>
+</row>
+<row>
+  <author_id>60</author_id><name>Clancy, Tom</name>
+</row>
+<row>
+  <author_id>61</author_id><name>Coben, Harlen</name>
+</row>
+<row>
+  <author_id>62</author_id><name>Cochrane, Mick</name>
+</row>
+<row>
+  <author_id>63</author_id><name>Connelly, Michael</name>
+</row>
+<row>
+  <author_id>64</author_id><name>Connelly, Michael (editor)</name>
+</row>
+<row>
+  <author_id>65</author_id><name>Cook, Robin</name>
+</row>
+<row>
+  <author_id>66</author_id><name>Cooke, Alistair</name>
+</row>
+<row>
+  <author_id>67</author_id><name>Coonts, Stephen</name>
+</row>
+<row>
+  <author_id>68</author_id><name>Cornwell, Bernard</name>
+</row>
+<row>
+  <author_id>69</author_id><name>Cornwell, Patricia</name>
+</row>
+<row>
+  <author_id>70</author_id><name>Crane, Stephen</name>
+</row>
+<row>
+  <author_id>71</author_id><name>Crichton, Michael</name>
+</row>
+<row>
+  <author_id>72</author_id><name>Crystal, Billy</name>
+</row>
+<row>
+  <author_id>73</author_id><name>Cullin, Mitch</name>
+</row>
+<row>
+  <author_id>74</author_id><name>Curtis, Christopher Paul</name>
+</row>
+<row>
+  <author_id>75</author_id><name>Danver, Dennis</name>
+</row>
+<row>
+  <author_id>76</author_id><name>Davis, Kenneth C.</name>
+</row>
+<row>
+  <author_id>77</author_id><name>De Maurier, Daphne</name>
+</row>
+<row>
+  <author_id>78</author_id><name>Deaver, Jeffrey</name>
+</row>
+<row>
+  <author_id>79</author_id><name>Defoe, Daniel</name>
+</row>
+<row>
+  <author_id>80</author_id><name>DeLillo, Don</name>
+</row>
+<row>
+  <author_id>81</author_id><name>DeMille, Nelson</name>
+</row>
+<row>
+  <author_id>82</author_id><name>DiCamillo, Kate</name>
+</row>
+<row>
+  <author_id>83</author_id><name>Dick, Philip K.</name>
+</row>
+<row>
+  <author_id>84</author_id><name>Dickens, Charles</name>
+</row>
+<row>
+  <author_id>85</author_id><name>Dickey, Christoper</name>
+</row>
+<row>
+  <author_id>86</author_id><name>Dickey, Christopher</name>
+</row>
+<row>
+  <author_id>87</author_id><name>Dickey, Eric Jerome</name>
+</row>
+<row>
+  <author_id>88</author_id><name>Dickey, James</name>
+</row>
+<row>
+  <author_id>89</author_id><name>Dobyns, Stephen</name>
+</row>
+<row>
+  <author_id>90</author_id><name>Dooling, Richard</name>
+</row>
+<row>
+  <author_id>91</author_id><name>Dorsey, David</name>
+</row>
+<row>
+  <author_id>92</author_id><name>Doyle, Arthur Conan</name>
+</row>
+<row>
+  <author_id>93</author_id><name>Doyle, Roddy</name>
+</row>
+<row>
+  <author_id>94</author_id><name>Driscoll, Jack</name>
+</row>
+<row>
+  <author_id>95</author_id><name>Dunmore, Helen</name>
+</row>
+<row>
+  <author_id>96</author_id><name>Earley, Tony</name>
+</row>
+<row>
+  <author_id>97</author_id><name>Eggers, Dave</name>
+</row>
+<row>
+  <author_id>98</author_id><name>Enger, Leif</name>
+</row>
+<row>
+  <author_id>99</author_id><name>Estleman, Loren</name>
+</row>
+<row>
+  <author_id>100</author_id><name>Farnsworth, Clyde</name>
+</row>
+<row>
+  <author_id>101</author_id><name>Fast, Howard</name>
+</row>
+<row>
+  <author_id>102</author_id><name>Faulks, Sebastian</name>
+</row>
+<row>
+  <author_id>103</author_id><name>Feinstein, John</name>
+</row>
+<row>
+  <author_id>104</author_id><name>Feldman, Ellen</name>
+</row>
+<row>
+  <author_id>105</author_id><name>Ferris, Joshua</name>
+</row>
+<row>
+  <author_id>106</author_id><name>Fforde, Jasper</name>
+</row>
+<row>
+  <author_id>107</author_id><name>Fforde, Katie</name>
+</row>
+<row>
+  <author_id>108</author_id><name>Fielding, Helen</name>
+</row>
+<row>
+  <author_id>109</author_id><name>Finder, Joseph</name>
+</row>
+<row>
+  <author_id>110</author_id><name>Fitzgerald, F. Scott</name>
+</row>
+<row>
+  <author_id>111</author_id><name>Flaherty, Bob</name>
+</row>
+<row>
+  <author_id>112</author_id><name>Foer, Franklin</name>
+</row>
+<row>
+  <author_id>113</author_id><name>Foer, Jonathan Safran</name>
+</row>
+<row>
+  <author_id>114</author_id><name>Follett, Ken</name>
+</row>
+<row>
+  <author_id>115</author_id><name>Ford, Richard</name>
+</row>
+<row>
+  <author_id>116</author_id><name>Forester, C.S.</name>
+</row>
+<row>
+  <author_id>117</author_id><name>Forster, E.M.</name>
+</row>
+<row>
+  <author_id>118</author_id><name>Forsyth, Frederick</name>
+</row>
+<row>
+  <author_id>119</author_id><name>Frank, Jeffrey</name>
+</row>
+<row>
+  <author_id>120</author_id><name>Franzen, Jonathan</name>
+</row>
+<row>
+  <author_id>121</author_id><name>Frayn, Michael</name>
+</row>
+<row>
+  <author_id>122</author_id><name>Frazier, Charles</name>
+</row>
+<row>
+  <author_id>123</author_id><name>Friedman, Kinky</name>
+</row>
+<row>
+  <author_id>124</author_id><name>Gaines, Ernest J.</name>
+</row>
+<row>
+  <author_id>125</author_id><name>Gates, David</name>
+</row>
+<row>
+  <author_id>126</author_id><name>Gay, William</name>
+</row>
+<row>
+  <author_id>127</author_id><name>George, Jean Craighead</name>
+</row>
+<row>
+  <author_id>128</author_id><name>Gilbert, David</name>
+</row>
+<row>
+  <author_id>129</author_id><name>Gilbert, Elizabeth</name>
+</row>
+<row>
+  <author_id>130</author_id><name>Gilman, Dorothy</name>
+</row>
+<row>
+  <author_id>131</author_id><name>Goddard, Robert</name>
+</row>
+<row>
+  <author_id>132</author_id><name>Gold, Glen David</name>
+</row>
+<row>
+  <author_id>133</author_id><name>Golden, Arthur</name>
+</row>
+<row>
+  <author_id>134</author_id><name>Gores, Joe</name>
+</row>
+<row>
+  <author_id>135</author_id><name>Graham, Katherine</name>
+</row>
+<row>
+  <author_id>136</author_id><name>Greene, Bob</name>
+</row>
+<row>
+  <author_id>137</author_id><name>Greene, Graham</name>
+</row>
+<row>
+  <author_id>138</author_id><name>Grisham, John</name>
+</row>
+<row>
+  <author_id>139</author_id><name>Grogan, John</name>
+</row>
+<row>
+  <author_id>140</author_id><name>Gruen, Sara</name>
+</row>
+<row>
+  <author_id>141</author_id><name>Guevara, Ernesto</name>
+</row>
+<row>
+  <author_id>142</author_id><name>Haddon, Mark</name>
+</row>
+<row>
+  <author_id>143</author_id><name>Hagen, George</name>
+</row>
+<row>
+  <author_id>144</author_id><name>Haien, Jeannette</name>
+</row>
+<row>
+  <author_id>145</author_id><name>Halperin, James</name>
+</row>
+<row>
+  <author_id>146</author_id><name>Hamilton, Steve</name>
+</row>
+<row>
+  <author_id>147</author_id><name>Hammett, Dashiell</name>
+</row>
+<row>
+  <author_id>148</author_id><name>Hardwick, Gary</name>
+</row>
+<row>
+  <author_id>149</author_id><name>Hardy, Thomas</name>
+</row>
+<row>
+  <author_id>150</author_id><name>Harris, Joanne</name>
+</row>
+<row>
+  <author_id>151</author_id><name>Harris, Robert</name>
+</row>
+<row>
+  <author_id>152</author_id><name>Harris, Thomas</name>
+</row>
+<row>
+  <author_id>153</author_id><name>Harrison, Jamie</name>
+</row>
+<row>
+  <author_id>154</author_id><name>Haruf, Kent</name>
+</row>
+<row>
+  <author_id>155</author_id><name>Haslett, Adam</name>
+</row>
+<row>
+  <author_id>156</author_id><name>Hawkes, John</name>
+</row>
+<row>
+  <author_id>157</author_id><name>Haywood, Gar Anthony</name>
+</row>
+<row>
+  <author_id>158</author_id><name>Hecht, Daniel</name>
+</row>
+<row>
+  <author_id>159</author_id><name>Heller, Joseph</name>
+</row>
+<row>
+  <author_id>160</author_id><name>Heller, Zoe</name>
+</row>
+<row>
+  <author_id>161</author_id><name>Hemingway, Ernest</name>
+</row>
+<row>
+  <author_id>162</author_id><name>Hill, Joe</name>
+</row>
+<row>
+  <author_id>163</author_id><name>Hillenbrand, Laura</name>
+</row>
+<row>
+  <author_id>164</author_id><name>Hillerman, Tony</name>
+</row>
+<row>
+  <author_id>165</author_id><name>Hilton, James</name>
+</row>
+<row>
+  <author_id>166</author_id><name>Hornby, Nick</name>
+</row>
+<row>
+  <author_id>167</author_id><name>Hornby, Nick (Editor)</name>
+</row>
+<row>
+  <author_id>168</author_id><name>Hosseini, Khaled</name>
+</row>
+<row>
+  <author_id>169</author_id><name>Huggins, David</name>
+</row>
+<row>
+  <author_id>170</author_id><name>Hunt, E Howard</name>
+</row>
+<row>
+  <author_id>171</author_id><name>Hunter, Stephen</name>
+</row>
+<row>
+  <author_id>172</author_id><name>Ignatius, David</name>
+</row>
+<row>
+  <author_id>173</author_id><name>Iribarne, Matthew</name>
+</row>
+<row>
+  <author_id>174</author_id><name>Irving, John</name>
+</row>
+<row>
+  <author_id>175</author_id><name>Jackson, Mick</name>
+</row>
+<row>
+  <author_id>176</author_id><name>James, Donald</name>
+</row>
+<row>
+  <author_id>177</author_id><name>James, P. D.</name>
+</row>
+<row>
+  <author_id>178</author_id><name>Jenny, Zoe</name>
+</row>
+<row>
+  <author_id>179</author_id><name>Jones, Lloyd</name>
+</row>
+<row>
+  <author_id>180</author_id><name>Jones, Louis B.</name>
+</row>
+<row>
+  <author_id>181</author_id><name>Jordan, Hamilton</name>
+</row>
+<row>
+  <author_id>182</author_id><name>Juster, Norton</name>
+</row>
+<row>
+  <author_id>183</author_id><name>Kafka, Franz</name>
+</row>
+<row>
+  <author_id>184</author_id><name>Kanon, Joseph</name>
+</row>
+<row>
+  <author_id>185</author_id><name>Katzenbach, John</name>
+</row>
+<row>
+  <author_id>186</author_id><name>Keillor, Garrison</name>
+</row>
+<row>
+  <author_id>187</author_id><name>Kellerman, Jonathan</name>
+</row>
+<row>
+  <author_id>188</author_id><name>Kennedy, John F.</name>
+</row>
+<row>
+  <author_id>189</author_id><name>Kennedy, Pagan</name>
+</row>
+<row>
+  <author_id>190</author_id><name>Kerr, Philip</name>
+</row>
+<row>
+  <author_id>191</author_id><name>Kesey, Ken</name>
+</row>
+<row>
+  <author_id>192</author_id><name>Kidd, Sue Monk</name>
+</row>
+<row>
+  <author_id>193</author_id><name>Kinder, Gary</name>
+</row>
+<row>
+  <author_id>194</author_id><name>King, Stephen</name>
+</row>
+<row>
+  <author_id>195</author_id><name>Kinsella, W. P.</name>
+</row>
+<row>
+  <author_id>196</author_id><name>Kipling, Rudyard</name>
+</row>
+<row>
+  <author_id>197</author_id><name>Klosterman, Chuck</name>
+</row>
+<row>
+  <author_id>198</author_id><name>Kneale, Matthew</name>
+</row>
+<row>
+  <author_id>199</author_id><name>Knowles, John</name>
+</row>
+<row>
+  <author_id>200</author_id><name>Kovic, Ron</name>
+</row>
+<row>
+  <author_id>201</author_id><name>Kowalski, William</name>
+</row>
+<row>
+  <author_id>202</author_id><name>Krist, Gary</name>
+</row>
+<row>
+  <author_id>203</author_id><name>Kundera, Milan</name>
+</row>
+<row>
+  <author_id>204</author_id><name>Lahiri, Jhumpa</name>
+</row>
+<row>
+  <author_id>205</author_id><name>L'Amour, Louis</name>
+</row>
+<row>
+  <author_id>206</author_id><name>Larson, Erik</name>
+</row>
+<row>
+  <author_id>207</author_id><name>Laurie, Hugh</name>
+</row>
+<row>
+  <author_id>208</author_id><name>Lawrence, D. H.</name>
+</row>
+<row>
+  <author_id>209</author_id><name>Le Carre, John</name>
+</row>
+<row>
+  <author_id>210</author_id><name>Lee, Harper</name>
+</row>
+<row>
+  <author_id>211</author_id><name>Lehane, Dennis</name>
+</row>
+<row>
+  <author_id>212</author_id><name>Lehrer, Jim</name>
+</row>
+<row>
+  <author_id>213</author_id><name>Leonard, Elmore</name>
+</row>
+<row>
+  <author_id>214</author_id><name>Lethem, Jonathan</name>
+</row>
+<row>
+  <author_id>215</author_id><name>Levy, Harry</name>
+</row>
+<row>
+  <author_id>216</author_id><name>Levy, Shawn</name>
+</row>
+<row>
+  <author_id>217</author_id><name>Lewis, Michael</name>
+</row>
+<row>
+  <author_id>218</author_id><name>Lewis, Sara</name>
+</row>
+<row>
+  <author_id>219</author_id><name>Leyner, Mark</name>
+</row>
+<row>
+  <author_id>220</author_id><name>Liebling, A. J.</name>
+</row>
+<row>
+  <author_id>221</author_id><name>Lodge, David</name>
+</row>
+<row>
+  <author_id>222</author_id><name>London, Jack</name>
+</row>
+<row>
+  <author_id>223</author_id><name>Ludlum, Robert</name>
+</row>
+<row>
+  <author_id>224</author_id><name>Lupica, Mike</name>
+</row>
+<row>
+  <author_id>225</author_id><name>Lynch, Jim</name>
+</row>
+<row>
+  <author_id>226</author_id><name>Lyons, Daniel</name>
+</row>
+<row>
+  <author_id>227</author_id><name>Macdonald, Ross</name>
+</row>
+<row>
+  <author_id>228</author_id><name>MacLean, Alistair</name>
+</row>
+<row>
+  <author_id>229</author_id><name>Macmillan, Margaret O.</name>
+</row>
+<row>
+  <author_id>230</author_id><name>Maguire, Gregory</name>
+</row>
+<row>
+  <author_id>231</author_id><name>Malamud, Bernard</name>
+</row>
+<row>
+  <author_id>232</author_id><name>Markey, Judy</name>
+</row>
+<row>
+  <author_id>233</author_id><name>Martel, Yann</name>
+</row>
+<row>
+  <author_id>234</author_id><name>Martin, Steve</name>
+</row>
+<row>
+  <author_id>235</author_id><name>Mason, A. E. W.</name>
+</row>
+<row>
+  <author_id>236</author_id><name>Maugham, W. Somerset</name>
+</row>
+<row>
+  <author_id>237</author_id><name>McCarry, Charles</name>
+</row>
+<row>
+  <author_id>238</author_id><name>McCarthy, Cormac</name>
+</row>
+<row>
+  <author_id>239</author_id><name>McCourt, Frank</name>
+</row>
+<row>
+  <author_id>240</author_id><name>McCullough, David</name>
+</row>
+<row>
+  <author_id>241</author_id><name>McGarrity, Michael</name>
+</row>
+<row>
+  <author_id>242</author_id><name>McGregor, Tom</name>
+</row>
+<row>
+  <author_id>243</author_id><name>McPherson, James M.</name>
+</row>
+<row>
+  <author_id>244</author_id><name>Menaker, Daniel</name>
+</row>
+<row>
+  <author_id>245</author_id><name>Mercer, Judy</name>
+</row>
+<row>
+  <author_id>246</author_id><name>Meyers, Jeffery</name>
+</row>
+<row>
+  <author_id>247</author_id><name>Miller, John (Editor)</name>
+</row>
+<row>
+  <author_id>248</author_id><name>Millett, Larry</name>
+</row>
+<row>
+  <author_id>249</author_id><name>Mitchell, Margaret</name>
+</row>
+<row>
+  <author_id>250</author_id><name>Moore, Brian</name>
+</row>
+<row>
+  <author_id>251</author_id><name>Moore, Christopher</name>
+</row>
+<row>
+  <author_id>252</author_id><name>Moore, Lorrie</name>
+</row>
+<row>
+  <author_id>253</author_id><name>Moran, Thomas</name>
+</row>
+<row>
+  <author_id>254</author_id><name>Mortimer, John</name>
+</row>
+<row>
+  <author_id>255</author_id><name>Mosley, Walter</name>
+</row>
+<row>
+  <author_id>256</author_id><name>Murray, Paul</name>
+</row>
+<row>
+  <author_id>257</author_id><name>Nichols, John</name>
+</row>
+<row>
+  <author_id>258</author_id><name>Niemi, Mikael</name>
+</row>
+<row>
+  <author_id>259</author_id><name>Niven, David</name>
+</row>
+<row>
+  <author_id>260</author_id><name>Nordhoff, Charles</name>
+</row>
+<row>
+  <author_id>261</author_id><name>O'Brien, Tim</name>
+</row>
+<row>
+  <author_id>262</author_id><name>Orwell, George</name>
+</row>
+<row>
+  <author_id>263</author_id><name>Paine, Tom</name>
+</row>
+<row>
+  <author_id>264</author_id><name>Palmer, Karen</name>
+</row>
+<row>
+  <author_id>265</author_id><name>Parish, James Robert</name>
+</row>
+<row>
+  <author_id>266</author_id><name>Parker, Robert</name>
+</row>
+<row>
+  <author_id>267</author_id><name>Parkinson, C. Northcote</name>
+</row>
+<row>
+  <author_id>268</author_id><name>Patchett, Ann</name>
+</row>
+<row>
+  <author_id>269</author_id><name>Patterson, James</name>
+</row>
+<row>
+  <author_id>270</author_id><name>Pearson, Carol Lynn</name>
+</row>
+<row>
+  <author_id>271</author_id><name>Pelecanos, George P.</name>
+</row>
+<row>
+  <author_id>272</author_id><name>Perrotta, Tom</name>
+</row>
+<row>
+  <author_id>273</author_id><name>Plimpton, George</name>
+</row>
+<row>
+  <author_id>274</author_id><name>Poe, Edgar Allen</name>
+</row>
+<row>
+  <author_id>275</author_id><name>Portis, Charles</name>
+</row>
+<row>
+  <author_id>276</author_id><name>Price, Richard</name>
+</row>
+<row>
+  <author_id>277</author_id><name>Pronzini, Bill</name>
+</row>
+<row>
+  <author_id>278</author_id><name>Proulx, Annie</name>
+</row>
+<row>
+  <author_id>279</author_id><name>Quindlen, Anna</name>
+</row>
+<row>
+  <author_id>280</author_id><name>Quirk, Joe</name>
+</row>
+<row>
+  <author_id>281</author_id><name>Reiser, Paul</name>
+</row>
+<row>
+  <author_id>282</author_id><name>Remarque, Erich Maria</name>
+</row>
+<row>
+  <author_id>283</author_id><name>Remnick, David</name>
+</row>
+<row>
+  <author_id>284</author_id><name>Rice, Anne</name>
+</row>
+<row>
+  <author_id>285</author_id><name>Rice, Ben</name>
+</row>
+<row>
+  <author_id>286</author_id><name>Roach, Mary</name>
+</row>
+<row>
+  <author_id>287</author_id><name>Robinson, Bruce</name>
+</row>
+<row>
+  <author_id>288</author_id><name>Rooney, Andy</name>
+</row>
+<row>
+  <author_id>289</author_id><name>Rosenfeld, Arthur</name>
+</row>
+<row>
+  <author_id>290</author_id><name>Rosnay, Tatiana de</name>
+</row>
+<row>
+  <author_id>291</author_id><name>Ross, Lillian</name>
+</row>
+<row>
+  <author_id>292</author_id><name>Roth, Philip</name>
+</row>
+<row>
+  <author_id>293</author_id><name>Rowling, J. K.</name>
+</row>
+<row>
+  <author_id>294</author_id><name>Ruiz Zafon, Carlos</name>
+</row>
+<row>
+  <author_id>295</author_id><name>Russo, Richard</name>
+</row>
+<row>
+  <author_id>296</author_id><name>Sachar, Louis</name>
+</row>
+<row>
+  <author_id>297</author_id><name>Safire, Willam</name>
+</row>
+<row>
+  <author_id>298</author_id><name>Salinger, J.D.</name>
+</row>
+<row>
+  <author_id>299</author_id><name>Scholefield, Alan</name>
+</row>
+<row>
+  <author_id>300</author_id><name>Schwartz, Lynn Sharon</name>
+</row>
+<row>
+  <author_id>301</author_id><name>Scott, Walter Sir</name>
+</row>
+<row>
+  <author_id>302</author_id><name>Searles, John</name>
+</row>
+<row>
+  <author_id>303</author_id><name>Sebold, Alice</name>
+</row>
+<row>
+  <author_id>304</author_id><name>Sedaris, David</name>
+</row>
+<row>
+  <author_id>305</author_id><name>Sessions Stepp, Laura</name>
+</row>
+<row>
+  <author_id>306</author_id><name>Shaara, Jeff</name>
+</row>
+<row>
+  <author_id>307</author_id><name>Shaara, Michael</name>
+</row>
+<row>
+  <author_id>308</author_id><name>Shakespeare, William</name>
+</row>
+<row>
+  <author_id>309</author_id><name>Shames, Laurence</name>
+</row>
+<row>
+  <author_id>310</author_id><name>Shapiro, Laurie Gwen</name>
+</row>
+<row>
+  <author_id>311</author_id><name>Sharp, John</name>
+</row>
+<row>
+  <author_id>312</author_id><name>Sheils, Michael</name>
+</row>
+<row>
+  <author_id>313</author_id><name>Sherwood, Ben</name>
+</row>
+<row>
+  <author_id>314</author_id><name>Shirer, William</name>
+</row>
+<row>
+  <author_id>315</author_id><name>Shreve, Porter</name>
+</row>
+<row>
+  <author_id>316</author_id><name>Silva, Daniel</name>
+</row>
+<row>
+  <author_id>317</author_id><name>Smith, Kyle</name>
+</row>
+<row>
+  <author_id>318</author_id><name>Smith, Martin Cruz</name>
+</row>
+<row>
+  <author_id>319</author_id><name>Smith, Mary-Ann Tirone</name>
+</row>
+<row>
+  <author_id>320</author_id><name>Smolens, John</name>
+</row>
+<row>
+  <author_id>321</author_id><name>Somerville, Patrick</name>
+</row>
+<row>
+  <author_id>322</author_id><name>Sontag, Sherry</name>
+</row>
+<row>
+  <author_id>323</author_id><name>Stadohar, Paul</name>
+</row>
+<row>
+  <author_id>324</author_id><name>Standiford, Less</name>
+</row>
+<row>
+  <author_id>325</author_id><name>Stark, Richard</name>
+</row>
+<row>
+  <author_id>326</author_id><name>Stashower, Daniel</name>
+</row>
+<row>
+  <author_id>327</author_id><name>Steinbeck, John</name>
+</row>
+<row>
+  <author_id>328</author_id><name>Stevenson, Robert Louis</name>
+</row>
+<row>
+  <author_id>329</author_id><name>Stewart, George R.</name>
+</row>
+<row>
+  <author_id>330</author_id><name>Stoker, Bram</name>
+</row>
+<row>
+  <author_id>331</author_id><name>Stout, Rex</name>
+</row>
+<row>
+  <author_id>332</author_id><name>Strout, Elizabeth</name>
+</row>
+<row>
+  <author_id>333</author_id><name>Stuever, Hank</name>
+</row>
+<row>
+  <author_id>334</author_id><name>Swanson, James L.</name>
+</row>
+<row>
+  <author_id>335</author_id><name>Swarup, Vikas</name>
+</row>
+<row>
+  <author_id>336</author_id><name>Sweeney, Charles</name>
+</row>
+<row>
+  <author_id>337</author_id><name>Swisher, Kara</name>
+</row>
+<row>
+  <author_id>338</author_id><name>Tarloff, Erik</name>
+</row>
+<row>
+  <author_id>339</author_id><name>Tarlton, John</name>
+</row>
+<row>
+  <author_id>340</author_id><name>Thomas, Will</name>
+</row>
+<row>
+  <author_id>341</author_id><name>Thurber, James</name>
+</row>
+<row>
+  <author_id>342</author_id><name>Time-Life Books</name>
+</row>
+<row>
+  <author_id>343</author_id><name>Tobin, James</name>
+</row>
+<row>
+  <author_id>344</author_id><name>Townsend, Sue</name>
+</row>
+<row>
+  <author_id>345</author_id><name>Travis, Clay</name>
+</row>
+<row>
+  <author_id>346</author_id><name>Trevanian</name>
+</row>
+<row>
+  <author_id>347</author_id><name>Trillin, Calvin</name>
+</row>
+<row>
+  <author_id>348</author_id><name>Tropper, Jonathan</name>
+</row>
+<row>
+  <author_id>349</author_id><name>Turan, Kenneth</name>
+</row>
+<row>
+  <author_id>350</author_id><name>Twain, Mark</name>
+</row>
+<row>
+  <author_id>351</author_id><name>Updike, John</name>
+</row>
+<row>
+  <author_id>352</author_id><name>Vidal, Gore</name>
+</row>
+<row>
+  <author_id>353</author_id><name>Vonnegut, Kurt</name>
+</row>
+<row>
+  <author_id>354</author_id><name>Wallace, Daniel</name>
+</row>
+<row>
+  <author_id>355</author_id><name>Wallace, David Foster</name>
+</row>
+<row>
+  <author_id>356</author_id><name>Wallace, Randall</name>
+</row>
+<row>
+  <author_id>357</author_id><name>Ward, Amanda Eyre</name>
+</row>
+<row>
+  <author_id>358</author_id><name>Wartzman, Rick</name>
+</row>
+<row>
+  <author_id>359</author_id><name>Watt, Alan</name>
+</row>
+<row>
+  <author_id>360</author_id><name>Webb, Charles</name>
+</row>
+<row>
+  <author_id>361</author_id><name>White, Robin</name>
+</row>
+<row>
+  <author_id>362</author_id><name>Whitehead, Colson</name>
+</row>
+<row>
+  <author_id>363</author_id><name>Winslow, Don</name>
+</row>
+<row>
+  <author_id>364</author_id><name>Wodehouse, P.G.</name>
+</row>
+<row>
+  <author_id>365</author_id><name>Wolf, William</name>
+</row>
+<row>
+  <author_id>366</author_id><name>Wolff, Tobias</name>
+</row>
+<row>
+  <author_id>367</author_id><name>Wolff, Tobias (Editor)</name>
+</row>
+<row>
+  <author_id>368</author_id><name>Woodman, Richard</name>
+</row>
+<row>
+  <author_id>369</author_id><name>Woolrich, Cornell</name>
+</row>
+<row>
+  <author_id>370</author_id><name>Wouk, Herman</name>
+</row>
+<row>
+  <author_id>371</author_id><name>Young, Robert Clark</name>
+</row>
+<row>
+  <author_id>372</author_id><name>Zencey, Eric</name>
+</row>
+<row>
+  <author_id>373</author_id><name>Zigman, Laura</name>
+</row>
+<row>
+  <author_id>374</author_id><name>Cathcart, Thomas &amp; Klein, Daniel</name>
+</row>
+<row>
+  <author_id>375</author_id><name>Hope, Anthony</name>
+</row>
+<row>
+  <author_id>376</author_id><name>Sierra, Kathy &amp; Bates, Bert</name>
+</row>
+<row>
+  <author_id>377</author_id><name>Meloy, Maile</name>
+</row>
+<row>
+  <author_id>378</author_id><name>Kurkov, Andrey</name>
+</row>
+<row>
+  <author_id>379</author_id><name>Jonnes, Jill</name>
+</row>
+<row>
+  <author_id>380</author_id><name>Buchan, John</name>
+</row>
+<row>
+  <author_id>381</author_id><name>Verne, Jules</name>
+</row>
+<row>
+  <author_id>382</author_id><name>Diffee, Matthew (Editor)</name>
+</row>
+<row>
+  <author_id>383</author_id><name>Price, Steven D.</name>
+</row>
+<row>
+  <author_id>384</author_id><name>Benioff, David</name>
+</row>
+<row>
+  <author_id>385</author_id><name>Grahame-Smith, Seth</name>
+</row>
+<row>
+  <author_id>386</author_id><name>Smith, Jean Edward</name>
+</row>
+<row>
+  <author_id>387</author_id><name>Percy, Walker</name>
+</row>
+<row>
+  <author_id>388</author_id><name>Murach, Joel</name>
+</row>
+<row>
+  <author_id>389</author_id><name>Agassi, Andre</name>
+</row>
+<row>
+  <author_id>390</author_id><name>Chesterton, G. K.</name>
+</row>
+<row>
+  <author_id>391</author_id><name>Barber, Lynn</name>
+</row>
+<row>
+  <author_id>392</author_id><name>Rosenblum, Michael</name>
+</row>
+<row>
+  <author_id>393</author_id><name>Cervantes, Miguel De</name>
+</row>
+<row>
+  <author_id>394</author_id><name>Simonson, Helen</name>
+</row>
+<row>
+  <author_id>395</author_id><name>Freeman, Elisabeth &amp; Eric</name>
+</row>
+<row>
+  <author_id>396</author_id><name>Pekar, Harvey (editor)</name>
+</row>
+<row>
+  <author_id>397</author_id><name>Breslin, Jimmy</name>
+</row>
+<row>
+  <author_id>398</author_id><name>Sanderson, Dan</name>
+</row>
+<row>
+  <author_id>399</author_id><name>Alda, Alan</name>
+</row>
+<row>
+  <author_id>400</author_id><name>Larsson, Stieg</name>
+</row>
+<row>
+  <author_id>401</author_id><name>Senzai, N.H.</name>
+</row>
+<row>
+  <author_id>402</author_id><name>Macintyre, Ben</name>
+</row>
+<row>
+  <author_id>403</author_id><name>Swift, Jonathan</name>
+</row>
+<row>
+  <author_id>404</author_id><name>Arden, Paul</name>
+</row>
+<row>
+  <author_id>405</author_id><name>Glauser, Friedrich</name>
+</row>
+<row>
+  <author_id>406</author_id><name>Tobolowsky, Stephen</name>
+</row>
+<row>
+  <author_id>407</author_id><name>Carpenter, Stephen</name>
+</row>
+<row>
+  <author_id>408</author_id><name>Wilber, Del Quentin</name>
+</row>
+<row>
+  <author_id>409</author_id><name>Locke, John</name>
+</row>
+<row>
+  <author_id>410</author_id><name>Galyean, Andrea et al.</name>
+</row>
+<row>
+  <author_id>411</author_id><name>Guermeur, Daniel &amp; Unruh, Amy</name>
+</row>
+<row>
+  <author_id>412</author_id><name>deWitt, Patrick</name>
+</row>
+<row>
+  <author_id>413</author_id><name>Charyn, Jerome</name>
+</row>
+<row>
+  <author_id>414</author_id><name>Lowe, Rob</name>
+</row>
+<row>
+  <author_id>415</author_id><name>Schmitt, Eric &amp; Shanker, Tom</name>
+</row>
+<row>
+  <author_id>416</author_id><name>Baring-Gould, William S.</name>
+</row>
+<row>
+  <author_id>417</author_id><name>Johnson, Denis</name>
+</row>
+<row>
+  <author_id>418</author_id><name>Lipman, Elinor</name>
+</row>
+<row>
+  <author_id>419</author_id><name>Keith, Jeremy</name>
+</row>
+<row>
+  <author_id>420</author_id><name>Fleming, Ian</name>
+</row>
+<row>
+  <author_id>421</author_id><name>Horowitz, Anthony</name>
+</row>
+<row>
+  <author_id>422</author_id><name>Toole, John Kennedy</name>
+</row>
+<row>
+  <author_id>423</author_id><name>Burnette, Ed</name>
+</row>
+</authors>

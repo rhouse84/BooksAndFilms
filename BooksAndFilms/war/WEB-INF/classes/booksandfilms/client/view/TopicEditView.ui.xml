@@ -1,0 +1,23 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+  <ui:style src="../Resources/GlobalStyles.css" />
+    
+  <g:HTMLPanel>
+    <div class='{style.formContainer}'>
+      <div class="{style.formTitle}">Topic Information</div>
+      <table>
+        <tr>
+          <td>Name:</td>
+          <td>
+            <g:TextBox ui:field='descriptionField' />
+          </td>
+        </tr>
+      </table>
+      <div class='{style.formButtons}'>
+        <g:Button ui:field="cancelButton">cancel</g:Button>
+        <g:Button ui:field="saveButton">save</g:Button>
+      </div>
+    </div>
+  </g:HTMLPanel>
+</ui:UiBinder> 

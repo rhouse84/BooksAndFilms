@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<books>
+<book>
+<id>8</id><title>Emma</title><author_id>12</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>444</id><title>Pride and Prejudice</title><author_id>12</author_id><genre>Fic</genre><rating>4</rating><notes>Elizabeth Bennet &amp; Mr. Darcy</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>449</id><title>Mr. Timothy</title><author_id>25</author_id><genre>Fic</genre><rating>4</rating><notes>Tim, Philomela &amp; Colin the Melodious</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>629</id><title>The Pale Blue Eye</title><author_id>25</author_id><genre>Fic</genre><rating>3</rating><notes>Gus Landor &amp; Poe</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>30</id><title>A Tale of Two Cities</title><author_id>84</author_id><genre>Fic</genre><rating>2</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>162</id><title>Oliver Twist</title><author_id>84</author_id><genre>Fic</genre><rating>3</rating><notes>Oliver, Rose, Fagin &amp; Sikes</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>163</id><title>The Pickwick Papers</title><author_id>84</author_id><genre>Fic</genre><rating>3</rating><notes>NULL</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>466</id><title>David Copperfield</title><author_id>84</author_id><genre>Fic</genre><rating>4</rating><notes>Trot, Agnes, Steerforth &amp; Uriah Heep</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>467</id><title>Great Expectations</title><author_id>84</author_id><genre>Fic</genre><rating>4</rating><notes>Pip, Estella, Herbert &amp; Magwitch</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>631</id><title>A Christmas Carol</title><author_id>84</author_id><genre>Fic</genre><rating>3</rating><notes>Scrooge &amp; the Cratchits</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>673</id><title>Little Dorrit</title><author_id>84</author_id><genre>Fic</genre><rating>3</rating><notes>Arthur Clennam, Amy and the Father of the Marshalsea</notes><create_date>2009-12-16</create_date><read_date>2009-12-16</read_date>
+</book>
+<book>
+<id>46</id><title>A Long Way Down</title><author_id>166</author_id><genre>Fic</genre><rating>2</rating><notes>Maureen, Martin, Jess &amp; JJ</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>252</id><title>Housekeeping vs. the Dirt</title><author_id>166</author_id><genre>Non</genre><rating>3</rating><notes>books purchased and read</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>253</id><title>Songbook</title><author_id>166</author_id><genre>Non</genre><rating>3</rating><notes>pop music</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>254</id><title>The Polysyllabic Spree</title><author_id>166</author_id><genre>Non</genre><rating>3</rating><notes>books purchased and read</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>506</id><title>About a Boy</title><author_id>166</author_id><genre>Fic</genre><rating>4</rating><notes>Will Freeman &amp; Marcus</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>507</id><title>High Fidelity</title><author_id>166</author_id><genre>Fic</genre><rating>4</rating><notes>Rob Fleming</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>508</id><title>How to Be Good</title><author_id>166</author_id><genre>Fic</genre><rating>4</rating><notes>Katie, David &amp; GoodNews</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>655</id><title>Fever Pitch</title><author_id>166</author_id><genre>Mem</genre><rating>4</rating><notes>Arsenal football</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>659</id><title>Shakespeare Wrote For Money</title><author_id>166</author_id><genre>Fic</genre><rating>3</rating><notes>books purchased and read</notes><create_date>2000-01-01</create_date><read_date>2000-01-01</read_date>
+</book>
+<book>
+<id>678</id><title>Juliet, Naked</title><author_id>166</author_id><genre>Fic</genre><rating>3</rating><notes>Duncan, Annie &amp; Tucker Crowe</notes><create_date>2010-01-06</create_date><read_date>2010-01-06</read_date>
+</book>
+<book>
+<id>667</id><title>Head First Java</title><author_id>376</author_id><genre>Non</genre><rating>3</rating><notes>first look at Java</notes><create_date>2009-10-03</create_date><read_date>2009-10-03</read_date>
+</book>
+</books>
